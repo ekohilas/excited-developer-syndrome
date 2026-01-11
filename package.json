@@ -5,7 +5,8 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export"
+    "export": "slidev export",
+    "zzz": "echo 'DO NOT ADD BELOW TO PRESERVE COMMA'"
   },
   "dependencies": {
     "@slidev/cli": "^52.11.2",
