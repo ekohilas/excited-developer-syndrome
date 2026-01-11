@@ -6,6 +6,7 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
+    "snapshot": "slidev export --format png --with-clicks",
     "zzz": "echo 'DO NOT ADD BELOW TO PRESERVE COMMA'"
   },
   "dependencies": {
