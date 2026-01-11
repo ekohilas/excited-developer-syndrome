@@ -20,5 +20,5 @@ jobs:
       - run: npm i -g @antfu/ni
       - name: Install dependencies
         run: nci
-      - run: nr snapshot 
+      - run: nr snapshot --timeout 60000
       - run: git diff --exit-code slides-export 
