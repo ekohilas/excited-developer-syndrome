@@ -3,7 +3,8 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
+# remove random background for snapshotting
+#background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: Welcome to Slidev
 info: |
@@ -134,7 +135,8 @@ The title will be inferred from your slide content, or you can override it with 
 
 ---
 layout: image-right
-image: https://cover.sli.dev
+# remove random image for snapshotting
+# image: https://cover.sli.dev
 ---
 
 # Code
