@@ -354,9 +354,9 @@ This shows up when you click the slide:
 
 <v-click>
 
-The <span v-mark.red="3"><code>v-mark</code> directive</span>
+The <span v-mark="{ at: 3, color: 'red', seed: 1 }"><code>v-mark</code> directive</span>
 also allows you to add
-<span v-mark.circle.orange="4">inline marks</span>
+<span v-mark="{ at: 4, color: 'orange', type: 'circle', seed: 1 }">inline marks</span>
 , powered by [Rough Notation](https://roughnotation.com/):
 
 ```html
