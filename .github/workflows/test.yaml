@@ -21,10 +21,4 @@ jobs:
       - name: Install dependencies
         run: nci
       - run: nr snapshot --timeout 60000
-      - run: git diff --exit-code slides-export 
-      - name: Upload ci exported slides on failure
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          path: slides-export
-          retention-days: 1
+      - run: nr diff

@@ -37,7 +37,7 @@ async function setupWorkspace(exportDir: string, tmpDir: string) {
  */
 async function runSlidevExport(outputDir: string) {
   console.log("🚀 Exporting slides...");
-  const result = await $`bunx slidev export --format png --with-clicks --output ${outputDir}`.quiet();
+  const result = await $`bunx slidev export --timeout 60000 --format png --with-clicks --output ${outputDir}`.quiet();
   if (result.exitCode !== 0) {
     throw new Error("Slidev export failed");
   }
