@@ -14,31 +14,192 @@ duration: 40min
 canvasWidth: 960 
 ---
 
-# Welcome to Slidev
+# Excited Developer Syndrome
 
-Presentation slides for developers
+Evan Kohilas
 
-<div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
-  Press Space for next page <carbon:arrow-right />
-</div>
-
-<div class="abs-br m-6 text-xl">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="slidev-icon-btn">
-    <carbon:edit />
-  </button>
-  <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
-    <carbon:logo-github />
-  </a>
-</div>
+@ekohilas - `nohumanerrors.com`
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+TODO: ...
+
+Hello Everyone!
 -->
 
 ---
-transition: fade-out
+
+# Excited Developer Syndrome
+
+<!--
+TODO: Add giggle gif/image e.g. https://www.youtube.com/watch?v=dgzyorveKJc
+
+Are you...
+excited...
+to be here?
+-->
+
 ---
 
+# Excited Developer Syndrome
+
+<!--
+Okay great then we're off to a good start!
+
+So today I want to talk about a phenomenon I'm coining "Excited Developer Syndrome"
+
+And instead of giving you a boring definition
+
+We'll start with an example
+
+a story
+
+of a developer named alex
+
+are there any alex's here?
+
+oh no...
+
+Okay we'll start with the story
+
+of a developer named ash
+
+Ash was an amazing programmer. Not only because they knew all their fundamentals.
+
+But they were a quick learner, and loved learning new things! 
+
+And whenever they were bored with the status quo, they'd look up the latest trends and cool technologies.
+
+The week Ash joined their new team, they were quickly able to finish their first ticket.
+
+But Ash wasn't just a good learner.
+
+They also had sparks of curiosity.
+
+By the end of their first month, they had questioned, and were able to identify multiple problems the company was facing.
+
+But Ash wasn't a complainer
+
+They knew that solutions spoke louder than problems.
+
+And Ash was good at building out solutions, and doing so quickly.
+
+Now can I get a show of hands for who can relate to Ash?
+
+Okay about X of you.
+
+What about someone who knows of someone like Ash?
+
+Okay about Y of you.
+
+Ash was doing quite well. In fact, so well that it didn't make sense for them to stay where they were.
+
+Throughout their career, Ash would get promoted, change teams, change companies, become a manager.
+
+Which was great news for Ash!
+
+But this was a problem because, inevitably, Ash will now have less time, and move further and further away from what they had built.
+
+Having handed over their work, they would no longer be responsible for the code and technical debt they had written, which would be a pain to fix when it fails.
+
+They'll no longer be around to see where their choice of new technology is failing, how things are incorrectly used, or where they should have been improved.
+
+And in their excitement to build out solutions to all the problems that they thought they saw,
+
+They never really stopped to fully understand the problem at hand, or to deeply investigate why things were the way they were, and maybe realise that the best solution didn't require new code at all.
+
+And this is not uncommon.
+
+Can I get a show of hands, if you can still relate to Ash, or met someone like them?
+
+That's still quite a lot of you...
+
+This is the "Excited Developer Syndrome"
+
+# TODO: Refine definition?
+
+A developer, who is excited for building out quick solutions, before fully understanding the problem at hand, and thus often become unmaintainable out of not retaining responsibility. 
+
+Now given that so many of you can relate to the "Excited Developer Syndrome", that is so prevalent within our industry, where building becomes easier by the day, what can one do to prevent it, to stop it from happening to us?
+
+# TODO: Link to other sources
+# TODO: Add clarity when it's the right mindset to have
+
+The first thing would be to think about existing solutions.
+
+# TODO: Title 
+
+Your proposal (to an existing solution) is not unique.
+
+But how can I make this claim when there's over 8 billion minds on this earth?
+
+Because of two phenomenon.
+
+The first is the Law of truly large numbers.
+
+Not to be confused with the law of large numbers, which says that if I take the average of all of your guesses for how many ...
+
+The law of truly large numbers effectively states that the chance of a 1 in a billion event happens more than once across 8 billion people is 99.96%
+
+The second phenomenon is simultaneous invention.
+
+Raise your hand if you knew that the Telephone was also invented and had a patent submitted by Elisha Gray on the same day.
+
+Alexander Bell's was only became known because his lawyers paid the fees immediately.
+
+Raise your hand if you knew that Henri Poincare also invented E=mc2, and Einstein only provided the accepted interpretation.
+
+Or if you knew that the Turing Machine was also proposed in 1936 independently by Emil Post
+
+My favourite one, RSA was described 4 years earlier by Clifford Cocks, who couldn't say anything because he was working for UK's intelligence agency.
+
+So we this combination of phenomenon, where one says that a solution already exists, and the other, that it's hidden or hard to find.
+
+And I'm sure you've come across this in your daily life.
+
+Have you ever searched for something on Google, to surprisingly (and seemingly) get no results?
+
+Every time I come across this, I definitely don't take absence as the answer.
+
+# TODO: Show un-indexed project
+
+Many things, like software projects deep withing GitHub aren't or can't be indexed.
+
+# TODO: Show google search example
+
+Or, they're a needle in the haystack of hundreds of fake pages exploiting the search engine optimization algorithm.
+
+So my advice here is to get creative.
+
+Don't just rely on Google.
+
+Try other search engines.
+
+Search GitHub, and other code repositories (and note that GitLab requires you to log in...)
+
+For example, I've found tools for GitLab to only exist on GitHub.
+
+Or if there's still not results, try using an LLM's deep research, which is helpful in bypassing SEO bloat, and understanding the underlying intent of your words.
+
+In either case, be wary of Type 2 errors. 
+
+No results does not mean it doesn't exist, because these tools aren't sources of truth.
+
+
+
+
+
+And I'm going to make two claims here.
+
+The first is that, in today's age, on a planet with over 8 billion minds, the chance that an idea hasn't been already thought of, or already implemented, is almost zero.
+
+And in the non-zero cases,I'd actually give more certainty to the fact that generative AI would be able to 
+
+
+
+
+-->
+
+---
 # What is Slidev?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
