@@ -1,8 +1,8 @@
 ---
-theme: apple-basic 
+theme: apple-basic
 #background: https://cover.sli.dev
 layout: intro
-title: Excited Developer Syndrome 
+title: Excited Developer Syndrome
 author: Evan Kohilas
 # apply UnoCSS classes to the current slide
 class: text-center
@@ -11,7 +11,7 @@ drawings:
   persist: false
 duration: 40min
 # TODO: figure out why this needs to be 1920/2 to set the width to 1920
-canvasWidth: 960 
+canvasWidth: 960
 ---
 
 # Excited Developer Syndrome
@@ -38,6 +38,8 @@ excited...
 to be here?
 -->
 
+---
+duration: 5min
 ---
 
 # Excited Developer Syndrome
@@ -123,36 +125,42 @@ Now given that so many of you can relate to the "Excited Developer Syndrome", th
 
 # TODO: Link to other sources
 # TODO: Add clarity when it's the right mindset to have
+-->
 
+---
+duration: 9.5min
+---
+
+<!--
 The first thing would be to think about existing solutions.
 
-# TODO: Title 
+# TODO: Title the phrase below 
 
 Your proposal (to an existing solution) is not unique.
 
 But how can I make this claim when there's over 8 billion minds on this earth?
 
-Because of two phenomenon.
+Well, it's because of two phenomenon.
 
 The first is the Law of truly large numbers.
 
 Not to be confused with the law of large numbers, which says that if I take the average of all of your guesses for how many ...
 
-The law of truly large numbers effectively states that the chance of a 1 in a billion event happens more than once across 8 billion people is 99.96%
+The law of *truly* large numbers effectively states that the chance for a 1 in a billion event to happen more than once across 8 billion people is 99.96%
 
 The second phenomenon is simultaneous invention.
 
 Raise your hand if you knew that the Telephone was also invented and had a patent submitted by Elisha Gray on the same day.
 
-Alexander Bell's was only became known because his lawyers paid the fees immediately.
+Alexander Bell's only became known because his lawyers paid the fees immediately.
 
-Raise your hand if you knew that Henri Poincare also invented E=mc2, and Einstein only provided the accepted interpretation.
+Raise your hand if you knew that Henri Poincare also invented E=mc2, and that Einstein only provided the accepted interpretation.
 
-Or if you knew that the Turing Machine was also proposed in 1936 independently by Emil Post
+Or if you knew that the Turing Machine was also proposed in the same year independently by Emil Post
 
 My favourite one, RSA was described 4 years earlier by Clifford Cocks, who couldn't say anything because he was working for UK's intelligence agency.
 
-So we this combination of phenomenon, where one says that a solution already exists, and the other, that it's hidden or hard to find.
+So we have this combination of phenomenon, where one says that a solution already exists, and the other, that it's hidden or hard to find.
 
 And I'm sure you've come across this in your daily life.
 
@@ -162,11 +170,11 @@ Every time I come across this, I definitely don't take absence as the answer.
 
 # TODO: Show un-indexed project
 
-Many things, like software projects deep withing GitHub aren't or can't be indexed.
+Many things, like software projects deep within GitHub aren't or can't be indexed.
 
 # TODO: Show google search example
 
-Or, they're a needle in the haystack of hundreds of fake pages exploiting the search engine optimization algorithm.
+Or, they're a needle in the haystack of hundreds of fake pages exploiting the search engine optimization algorithm (or SEO).
 
 So my advice here is to get creative.
 
@@ -182,20 +190,180 @@ Or if there's still not results, try using an LLM's deep research, which is help
 
 In either case, be wary of Type 2 errors. 
 
-No results does not mean it doesn't exist, because these tools aren't sources of truth.
+A Type 2 error is like a faulty COVID test that says you don't have COVID.
+
+Just because you got no results, doesn't mean it doesn't exist. 
+
+These tools aren't sources of truth.
+
+Because these tools can't find what hasn't been made public.
+
+For example, a show of hands from anyone whose made a tool at work that you couldn't share, or a personal tool that you didn't get around to sharing, or were comfortable making public? 
+
+That's about X of you, and if you consider that this is a conference about Open Source, the reality is probably less!
+
+And I bet that if we all talked to each other, there'd be at least one of you who was looking for a solution, and another who had already built it.
+-->
+
+---
+
+<!--
+I'd also gamble that on multiple occasions, someone like Ash _did_ find a solution but decided not to use it.
+
+Why?
+
+Ash was likely a victim of Not Invented Here, a bias against ideas from the outside.
+
+And empirically you don't want this bias, because a 1982 study by Ralph Katz and Thomas J. Allen shows that it causes performance to decline.
+
+But I've seen too many companies decide to re-build solutions in house, for solutions that exist as paid, managed products.
+
+From simple feature flagging software,
+
+To Chat-GPT.
+
+So perhaps these companies don't agree, or their team's performance is not an issue.
+
+Maybe they really care about keeping their data in house for security.
+
+Or they don't want to have yet another dependency that could fail and be out of their control.
+
+Or maybe they want customizability that the off the shelf product can't offer.
+
+Or worst of all, Ash wanted something complex to build for a promotion.
+
+I'm not going to argue that these aren't valid reasons. They definitely have their place.
+
+# TODO: Looking eyes fading in.
+
+(Okay maybe I'll argue against the last one)
+
+But they are all tradeoffs, and we have to consider.
+
+Are these benefits worth the cost? 
+
+Is keeping data in house that important, when everyone is communicating through tools like Slack, or using external unknown tools like their personal LLM?
+
+Are dependencies that concerning, if the internal infrastructure would be less stable?
+
+Is that one extra feature worth the additional complexity?
+
+Or is building out an entire new promotion worthy product worth the maintenance burden?
+
+And if the answer to some of these questions is yes, then that's perfectly fine!
+
+What's more important is that they've been thought of.
+
+Because building takes time, and time is money.
+
+A team being dedicated to build, maintain, debug, and secure, a product like feature flags, can cost on the order of a million dollars a year.
+
+Or, if you had 1 million users, it would cost around 1/8th of that to pay for a product.
+
+Which don't forget, is run by a team whose sole job is managing the reliability and security of this product.
+
+I can't really blame Ash for being a victim to Not Invented Here This bias exists because the nature of our industry encourages it.
+
+I mean, can you imagine working in an industry like construction, where timelines are on the order of years? 
+
+In comparison, software engineering is blessed with the ability to iterate quickly, through building, testing, and validating ideas, and personally I can't give that up.
+
+And with the advent of generative AI, that produces code better by the day, we can't expect this bias to go away.
+
+It's now easier than ever for someone to come up with an idea, and get to a working solution faster than they could find and integrate and existing one, because they've decided they can do a better job re-building it with the help of AI.
+
+# TODO: Shrug emoji.
+
+And I can't really stop that.
+
+But I have experienced where that can go wrong.
+
+# TODO: Add example
+
+So if we do go down the route of re-building
+
+These tools that help us build quicker make it easy to do so with less thinking.
+
+So we must remind ourselves that whatever is built is likely half complete, and can't just be called done.
 
 
 
+-->
 
+---
+duration: 2min
+---
 
-And I'm going to make two claims here.
+<!--
 
-The first is that, in today's age, on a planet with over 8 billion minds, the chance that an idea hasn't been already thought of, or already implemented, is almost zero.
+# TODO: Use Ash instead of you?
 
-And in the non-zero cases,I'd actually give more certainty to the fact that generative AI would be able to 
+But what if you've found something that's free and open source?
 
+That's great!
 
+But there's a problem.
 
+Maybe it's broken, or it's not quite what you're looking for.
+
+# TODO: Insert XKCD another standard meme
+
+Before you go and make the XKCD standards meme more true, have you considered:
+
+Contributing back to fix it?
+
+Submitting a PR will likely not only take less time than starting from scratch, but also make the solution more useful for everyone else!
+
+Which in turn, makes the solution more popular,
+
+and thus, becomes a compounding investment in the project's success and sustainability.
+
+But maybe a PR doesn't make sense.
+
+Maybe the change is too different for the project.
+
+Or maybe the author doesn't want to accept it.
+
+Then before starting from scratch, consider making your changes on a fork!
+
+This will not only be a time save for you, but also anyone else who follows your path.
+
+Even if you don't want the work to be public, you'll still save yourself time, especially if the upstream project makes changes that you could merge and benefit from.
+
+But if you're adamant that you must start from scratch, that's fine too.
+
+And it's okay not to like something or not have the time.
+
+Like, it's not always the case that fixing a bug will be easier than starting from scratch.
+
+At the end of the day, there's nothing that can force you to make these choices. They have to come from within.
+
+And if it does pain you to create another standard, I do encourage you to at least leave some feedback, or a trail, for others who search to find your path.
+
+-->
+
+---
+duration: 1muin
+---
+
+<!--
+
+What if you've honestly searched everywhere. Across different search engines, hosted code platforms, and have asked AI _and_ your network. What if you've basically scoured the earth but still couldn't find anything?
+
+Then don't let me stop you!
+
+Go forth and build!
+
+But I hope you'll do so with a new frame of mind, so that tomorrow, when Ash thinks about building the same thing, they'll quickly discover your work, and maybe, your work will be inspiring enough for them to contribute back and improve upon your work, rather than decide to start from scratch, and build something internally that will never see the light of day.
+
+-->
+
+---
+
+<!--
+But wait, should you actually build it?
+
+Considering the system as a whole
 
 -->
 
