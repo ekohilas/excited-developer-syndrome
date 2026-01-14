@@ -371,7 +371,7 @@ This is a question we often don't get to ask in our excitement.
 
 # TODO: Can I incorporate a single example as the main thread?
 
-If we pause for a moment, breathe, and look around us, what is the underlying system that we see at play?
+If we pause for a moment, breathe, look around us, and remove the blinders of excitement, then we could ask, what is the underlying system that we see at play?
 
 -->
 
@@ -407,7 +407,52 @@ And these pesticides, would not only increase the Budworm's food supply, but als
 
 <!--
 
-# TODO: Software equivalent
+If we extrapolate this example into the world of software, it'd be like 
+
+when we waste time in every review on nits.
+
+If we stop to analyse the system, we could realise that, they could be accepted as being inevitable. 
+
+Maybe that's not an answer, because like Budworms, too many nits can affect the final product.
+
+And instead it's worth taking a different approach, like changing the tree harvesting strategy, or like adding lint rules to stop nits from getting to a review in the first place.
+
+# TODO: Are the other examples better?
+
+wasting time in every review on nits, instead of adding lint rules to stop them from getting to the review in the first place.
+
+continuously trying to fix a flakey test that keeps popping up, instead of thinking about whether the test is needed in the first place.
+
+continuously trying to fix flakey tests, instead of building around the fact that they're inevitable 
+expect that flakey tests will happen, and write tools to track them?
+
+-->
+
+---
+
+<!-- 
+
+# TODO: Title
+
+Nothing, is infinitely better than something.
+
+A real scenario that a developer came across (and almost became an Ash) was when they were working on a country wide High Frequency network.
+
+The network was already fully functional and complete, with the ability to send 
+
+It was built to send 
+
+# TODO
+
+I don't blame whoever had suggested the feature.
+
+On the surface it was a perfectly reasonable idea
+
+And it's in our human nature to want to improve things.
+
+To me, it shows the importance of having a good understanding of the system.
+
+The ability to apply critical thinking, before excitedly rushing to a what would have been an easy implementation that would have no effect. 
 
 -->
 
@@ -415,9 +460,29 @@ And these pesticides, would not only increase the Budworm's food supply, but als
 
 <!--
 
+There's this meme that I love.
+
+# TODO: Insert meme
+
+The dev on the left of the bell curve uses the built in sort function to sort a list.
+
+The average dev implements their own sort function with some tests. 
+
+The dev on the right, uses the built in sort function and doesn't write tests because it's the built in sort.
+
+And the dev on far right tail end, removes the sort function because the list was already sorted.
+
+And I think that love this meme because you can apply it to anything.
+
+Similarly, one of my favourite quotes: 
+
 "[Instead of thinking] How can I make this engineering process faster, maybe look at how you can get rid of whatever it is completely"
 
-# TODO: HF example
+Instead of thinking, how can I fix this flakey test, maybe look at what value that test is providing in the first place.
+
+Removing that test, that process, that would now no longer provide value, is infinity more valuable than perpetually spending time fixing it.
+
+But that's not possible if you don't truly understand the system.
 
 -->
 
