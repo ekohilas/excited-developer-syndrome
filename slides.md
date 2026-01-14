@@ -367,11 +367,55 @@ But wait, should you actually build it?
 
 Think about the system
 
-This is a question we often don't get to ask.
+This is a question we often don't get to ask in our excitement.
 
 # TODO: Can I incorporate a single example as the main thread?
 
-If we stop for a moment, breathe
+If we pause for a moment, breathe, and look around us, what is the underlying system that we see at play?
+
+-->
+
+---
+
+<!--
+
+This is one of the core principles that Donella Meadows highlights in her book "Thinking in Systems"
+
+She gives the example of the late 1900's Canadian lumber industry which would harvest Spruce and Fir trees.
+
+However, they had a problem, the Budworm pest, which would kill these trees.
+
+So over 30 years, they sprayed pesticides.
+
+Each year became more and more expensive, and by 1980, they had spent an unmanageable 12.5 million in that year alone.
+
+Why was this considered unmanageable?
+
+Well after 30 years of spraying, the Budworm was still killing as many as 20 million hectares of trees per year.
+
+It wasn't until two Ecology and Forestry researchers built a computer model to get a whole system look, that they discovered that the Budworm wasn't a pest.
+
+The Budworm was an important element of the ecosystem. 
+
+Without the Budworm, these forests would become a monoculture of Fir, which was the Budworm's favourite food.
+
+And these pesticides, would not only increase the Budworm's food supply, but also it's predators, which where there to keep it in check from exploding in an uncontrollable manner.
+
+-->
+
+---
+
+<!--
+
+# TODO: Software equivalent
+
+-->
+
+---
+
+<!--
+
+"[Instead of thinking] How can I make this engineering process faster, maybe look at how you can get rid of whatever it is completely"
 
 # TODO: HF example
 
