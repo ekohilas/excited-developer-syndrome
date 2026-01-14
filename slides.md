@@ -628,6 +628,24 @@ Focus on the minimum
 -->
 
 ---
+
+# Summary
+
+- Bias for searching, using, and contributing to existing solutions
+- Pursue for a deep understanding of the system
+- Have an undying focus for the minimum
+
+<!-- 
+
+# TODO: reduce the above points
+
+For references and where to learn more, see
+
+Any questions?
+
+-->
+
+---
 # What is Slidev?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
