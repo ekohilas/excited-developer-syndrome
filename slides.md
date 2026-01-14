@@ -343,7 +343,7 @@ And if it does pain you to create another standard, I do encourage you to at lea
 -->
 
 ---
-duration: 1muin
+duration: 1min
 ---
 
 <!--
@@ -363,7 +363,116 @@ But I hope you'll do so with a new frame of mind, so that tomorrow, when Ash thi
 <!--
 But wait, should you actually build it?
 
-Considering the system as a whole
+# TODO: Title
+
+Think about the system
+
+This is a question we often don't get to ask.
+
+# TODO: Can I incorporate a single example as the main thread?
+
+If we stop for a moment, breathe
+
+# TODO: HF example
+
+-->
+
+---
+
+<!--
+
+One way to think about the system is to bias for inaction.
+
+Don't just build what you're told.
+
+Question the why, to help you understand the underlying problem.
+
+Use the 5 whys technique to drill in.
+
+We'll keep asking why to figure out what we're really trying to solve.
+
+And we'll bring Ash back, to put this into perspective.
+
+# TODO: Remove the asking?
+
+Ash was asked to build a past uploads screen.
+
+A screen where users could see all their past uploads, so that they could easily find and embed a previously uploaded file, without having to re-upload it.
+
+# TODO: Better name for the requestor
+
+Requestor: We need to build a past uploads screen!
+
+Why #1
+
+Ash: Why do we need to build a past uploads screen?
+
+Requestor: So users can quickly upload previous files served from a thumbnail service.
+
+Why #2
+
+Ash: Why do we need a thumbnail service?
+
+Requestor: To generate and serve thumbnails for past uploads.
+
+Why #3
+
+Ash: Why do we need thumbnails for past uploads, could we use the original images instead?
+
+Requestor: Well, if we did that, users would be making too many large requests.
+
+Why #4
+
+Ash: Why would users be making large requests?
+
+Requestor: Well, if they have a lot of past uploads. Especially if each one is megabytes in size!
+
+Why #5
+
+Ash: Why would users have a lot of past uploads? How many users have more than 2 past uploads?
+
+Requestor: Uh, let me check... Yeah right now, zero.
+
+With this questioning, Ash was able to avoid building out an entire feature which would have had no users.
+
+# TODO: Rephrase "if asked ...?"
+
+If these questions are asked in a respectful manner, it can't hurt.
+
+In fact it'll help you to understand the value to the customer, so that you're closer to the problem at hand.
+
+And the request doesn't have to be entirely ignored either. Because in reality, it is a valid request!
+
+Ash: I do see your concern. What do you think about keeping a track of that metric, and re-evaluating it when it starts to affect more users? 
+
+This is data driven design, and it is too often ignored.
+
+Which is a shame because we're an industry that can utilise it so quickly and effectively.
+
+Because otherwise, the alternative looks like:
+
+Weeks of:
+
+Engineering time spent on implementing additional complexity, and testing that the spec was followed.
+
+Only to be followed by the inevitable burden of keeping it maintained,
+
+dealing with newly introduced bugs for users
+
+and the dependency hell that all other developers now need to deal with, because this feature required installing a special package that now fails all new builds.
+
+-->
+
+---
+
+<!-- 
+What if you do have to build something?
+
+# TODO: Title
+
+Focus on the minimum
+
+# TODO: simplicity staff engineer meme
 
 -->
 
