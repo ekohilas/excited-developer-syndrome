@@ -623,7 +623,145 @@ What if you do have to build something?
 
 Focus on the minimum
 
-# TODO: simplicity staff engineer meme
+Then, focus on the minimum.
+
+Start small, and with a mindset that allows for easy change.
+
+A developer like Ash, would easily hate on boring implementations.
+
+They'd go crazy on the suggestion to use a spreadsheet as a database.
+
+They'd say:
+
+- "It won't scale!"
+- "How would you test that?"
+- "What about invalid data?"
+
+But in practice, it can work quite well!
+
+-->
+
+---
+
+<!--
+
+Levels.fyi a career site that aggregates job salaries for tech professionals. 
+
+And it serves over 1 to 2 millions users a month.
+
+But can you believe that when they started back in 2017, for their first few years, they had no backend, and stored over 100 thousand salaries in a google sheet?
+
+It makes perfect sense.
+
+Because when they started, they didn't know or care if it'd grow to that size.
+
+What they cared about, was:
+
+- the ability to launch quickly
+- saving money
+- and saving time
+
+which they could use to focus on the product.
+
+Because, how your data is stored makes no difference if no one wanted the product, if there was no data to store.
+
+And the quickest way for them to launch? 
+
+A google form.
+
+By starting simple, and validating their idea, they were then able to iterate as they needed based on user data and feedback.
+
+-->
+
+---
+
+<!--
+
+Now I don't want you to walk away from this thinking that everything should be hacked together.
+
+This wouldn't be possible without good design.
+
+The schema of your data doesn't live in the database.
+
+It lives in the interface between the database.
+
+Because if your product's architecture has been thoughtfully designed around data. 
+
+Such as interfaces that are well specified.
+
+And metrics to signal actions.
+
+Then migrating between components when the time calls, can be a short, well trodden path.
+
+# TODO: Diagrams with boxes that get swapped out
+
+# TODO: Add source https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html 
+
+# TODO: Mention SLC vs MVP? 
+
+-->
+
+---
+# TODO: Is the below needed? Maybe start with this example and then reveal levels.fyi?
+# TODO: Can a real example or story be used for the counterfactual?
+---
+
+<!--
+
+The counterfactual, of the problems that a developer like Ash would have come across?
+
+- Well first, they would have had to spend time, building, and maintaining a backend to process the data, and a database to store it.
+- Then, they would have had to pay for hosting these servers (or the costs of time and downtime if they had hosted it themselves)
+- There's also the cost of running migrations, every inevitable time there's a schema change.
+- And, the overhead of viewing and understanding the data, especially for non developers.
+
+Which, would have all gone to waste if the idea didn't work.
+
+-->
+
+---
+
+<!--
+
+So remember.
+
+Boring is good.
+
+It's simple, well tested, well known, and well defined.
+
+Don't excitedly run past the wonders of simplicity, with only premature optimisation in mind.
+
+-->
+
+---
+
+<!--
+
+But focusing on the minimum is not only for when you're thinking about the initial build. 
+
+It should be on your mind even after you've built it.
+
+When computers start to act up and seemingly do random things,
+
+it's easy to forget that they're actually doing exactly what they're told.
+
+And that problems will only arise, when things change.
+
+So focus on changing the minimum.
+
+Has production ever gone down,
+
+and after you've rolled back to a known working commit (hopefully, rather than rolling forward)
+
+You've not only turned off a bunch of unrelated features, but now have to rake through thousands of lines of code, to find the one issue?
+
+Or while changing some code, have you come across a nit, that seems ever so small, and seemingly unoffending, only to later find out that it broke prod?
+
+I know I have.
+
+And I've learnt the lesson that,
+
+The more code that is introduced, and the more changes that are made, the more time we have to spend on maintaining, or navigating when we add new code.
 
 -->
 
@@ -638,6 +776,8 @@ Focus on the minimum
 <!-- 
 
 # TODO: reduce the above points
+
+So in summary:
 
 For references and where to learn more, see
 
