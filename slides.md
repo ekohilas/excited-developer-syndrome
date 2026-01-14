@@ -438,11 +438,53 @@ Nothing, is infinitely better than something.
 
 A real scenario that a developer came across (and almost became an Ash) was when they were working on a country wide High Frequency network.
 
-The network was already fully functional and complete, with the ability to send 
+The network was built to communicate between a source and destination.
 
-It was built to send 
+And it had to ensure that it was doing so with the best signal.
 
-# TODO
+Because when you're sending over a High Frequency, there can be a lot of noise and interference.
+
+So the network had been built so that on every transmission, it would predict what configuration would produce the best signal.
+
+It would predict this configuration by running calculations on things like the state of the ionosphere,
+
+the type, location, and orientation of the source and destination antennas.
+
+And after making this prediction and transmission, it could compare the signal quality against the prediction. 
+
+Now this network was fully functional and battle tested.
+
+But this developer was given a feature request.
+
+Given they know what state produces a good signal quality.
+
+It should be cached, so they don't have to run these expensive calculations. 
+
+Now a cache is not exactly a difficult implementation.
+
+But this developer, having built out, and having a deep understanding of the system, decided to think about it.
+
+And they realised that the cache would need:
+
+The transmission frequency
+
+The transmitter power, antenna type, orientation, and location of the source antenna.
+
+The transmitter power, antenna type, orientation, and location of the destination antenna.
+
+(Side note, countries are quite big)
+
+But did that matter, if calculating the state of the ionosphere needed:
+
+The time of day,
+
+The time of year,
+
+And where you are in the the 11 year solar cycle?
+
+Effectively making the cache only useable once every 11 years
+
+If at all, considering how many things change in a decade.
 
 I don't blame whoever had suggested the feature.
 
