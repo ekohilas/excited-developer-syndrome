@@ -41,24 +41,17 @@ Are you...
 # Excited [Developer Syndrome]{style="opacity:50%"}
 
 <!--
-TODO: Add giggle gif/image e.g. https://www.youtube.com/watch?v=dgzyorveKJc
-
-Are you...
 excited...
 to be here?
 -->
 
 ---
 layout: image
-image: /giggle_rage_comic.png
+image: /ron_giggle_parks_and_rec.webp
 ---
 
 <!--
-TODO: Add giggle gif/image e.g. https://www.youtube.com/watch?v=dgzyorveKJc
-
-Are you...
-excited...
-to be here?
+Okay great then we're off to a good start!
 -->
 
 ---
@@ -68,7 +61,6 @@ duration: 5min
 # Excited Developer Syndrome
 
 <!--
-Okay great then we're off to a good start!
 
 So today I want to talk about a phenomenon I'm coining "Excited Developer Syndrome"
 
