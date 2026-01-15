@@ -12,6 +12,7 @@ drawings:
 duration: 40min
 # TODO: figure out why this needs to be 1920/2 to set the width to 1920
 canvasWidth: 960
+# for styling parts of text
 mdc: true
 ---
 
@@ -542,6 +543,8 @@ The second phenomenon is simultaneous invention.
 -->
 
 ---
+# could cut 
+---
 
 # ✋☎️
 
@@ -554,6 +557,8 @@ Alexander Bell's only became known because his lawyers paid the fees immediately
 -->
 
 ---
+# should keep for notability
+---
 
 # ✋🧑‍🔬
 
@@ -564,6 +569,8 @@ Raise your hand if you knew that Henri Poincare also invented E=mc2, and that Ei
 -->
 
 ---
+# should keep for relevance
+---
 
 # ✋🖥️
 
@@ -573,6 +580,8 @@ Or if you knew that the Turing Machine was also proposed in the same year indepe
 
 -->
 
+---
+# should keep due to relevance to being hidden
 ---
 
 # 🤚👨‍💻
@@ -860,19 +869,83 @@ And empirically you don't want this bias, because a 1982 study by Ralph Katz and
 
 But I've seen too many companies decide to re-build solutions in house, for solutions that exist as paid, managed products.
 
+-->
+
+---
+
+# 🚩
+
+<!--
+
 From simple feature flagging software,
+
+-->
+
+---
+
+# 🤖
+
+<!--
 
 To Chat-GPT.
 
+-->
+
+---
+
+# 🤷
+
+<!--
+
 So perhaps these companies don't agree, or their team's performance is not an issue.
+
+-->
+
+---
+
+# 🔒
+
+<!--
 
 Maybe they really care about keeping their data in house for security.
 
+-->
+
+---
+
+# 🔗
+
+<!--
+
 Or they don't want to have yet another dependency that could fail and be out of their control.
+
+-->
+
+---
+
+# 🎨
+
+<!--
 
 Or maybe they want customizability that the off the shelf product can't offer.
 
+-->
+
+---
+
+# 🎖️
+
+<!--
+
 Or worst of all, Ash wanted something complex to build for a promotion.
+
+-->
+
+---
+
+# 👀
+
+<!--
 
 I'm not going to argue that these aren't valid reasons. They definitely have their place.
 
@@ -880,51 +953,227 @@ I'm not going to argue that these aren't valid reasons. They definitely have the
 
 (Okay maybe I'll argue against the last one)
 
+-->
+
+---
+
+# ⚖️
+
+<!--
+
 But they are all tradeoffs, and we have to consider.
+
+-->
+
+---
+
+# 💰
+
+<!--
 
 Are these benefits worth the cost? 
 
+-->
+
+---
+
+# 🔒💬
+
+<!--
+
 Is keeping data in house that important, when everyone is communicating through tools like Slack, or using external unknown tools like their personal LLM?
+
+-->
+
+---
+
+# 🔗🏗️
+
+<!--
 
 Are dependencies that concerning, if the internal infrastructure would be less stable?
 
+-->
+
+---
+
+# ➕
+
+<!--
+
 Is that one extra feature worth the additional complexity?
+
+-->
+
+---
+
+# 🏆
+
+<!--
 
 Or is building out an entire new promotion worthy product worth the maintenance burden?
 
+-->
+
+---
+
+# ✅
+
+<!--
+
 And if the answer to some of these questions is yes, then that's perfectly fine!
+
+-->
+
+---
+
+# 🤔
+
+<!--
 
 What's more important is that they've been thought of.
 
+-->
+
+---
+
+# ⏰💰
+
+<!--
+
 Because building takes time, and time is money.
+
+-->
+
+---
+
+# 💵
+
+<!--
 
 A team being dedicated to build, maintain, debug, and secure, a product like feature flags, can cost on the order of a million dollars a year.
 
+-->
+
+---
+
+# 💸
+
+<!--
+
 Or, if you had 1 million users, it would cost around 1/8th of that to pay for a product.
+
+-->
+
+---
+
+# 🛡️
+
+<!--
 
 Which don't forget, is run by a team whose sole job is managing the reliability and security of this product.
 
+-->
+
+---
+
+# 🧑‍💻
+
+<!--
+
 I can't really blame Ash for being a victim to Not Invented Here This bias exists because the nature of our industry encourages it.
+
+-->
+
+---
+
+# 🏗️⏳
+
+<!--
 
 I mean, can you imagine working in an industry like construction, where timelines are on the order of years? 
 
+-->
+
+---
+
+# ⚡
+
+<!--
+
 In comparison, software engineering is blessed with the ability to iterate quickly, through building, testing, and validating ideas, and personally I can't give that up.
 
+-->
+
+---
+
+# 🤖✨
+
+<!--
+
 And with the advent of generative AI, that produces code better by the day, we can't expect this bias to go away.
+
+-->
+
+---
+
+# 🚀
+
+<!--
 
 It's now easier than ever for someone to come up with an idea, and get to a working solution faster than they could find and integrate and existing one, because they've decided they can do a better job re-building it with the help of AI.
 
 # TODO: Shrug emoji.
 
+-->
+
+---
+
+# 🤷
+
+<!--
+
 And I can't really stop that.
+
+-->
+
+---
+
+# ⚠️
+
+<!--
 
 But I have experienced where that can go wrong.
 
 # TODO: Add example
 
+-->
+
+---
+
+# 🔨
+
+<!--
+
 So if we do go down the route of re-building
 
+-->
+
+---
+
+# 🧠
+
+<!--
+
 These tools that help us build quicker make it easy to do so with less thinking.
+
+-->
+
+---
+
+# ⚠️
+
+<!--
 
 So we must remind ourselves that whatever is built is likely half complete, and can't just be called done.
 
@@ -936,49 +1185,203 @@ So we must remind ourselves that whatever is built is likely half complete, and 
 duration: 2min
 ---
 
+# 🆓
+
 <!--
 
 # TODO: Use Ash instead of you?
 
 But what if you've found something that's free and open source?
 
+-->
+
+---
+
+# 🎉
+
+<!--
+
 That's great!
 
+-->
+
+---
+
+# ⚠️
+
+<!--
+
 But there's a problem.
+
+-->
+
+---
+
+# TODO: XKCD standard meme 
+
+<!--
 
 Maybe it's broken, or it's not quite what you're looking for.
 
 # TODO: Insert XKCD another standard meme
 
+-->
+
+---
+
+# 🤔
+
+<!--
+
 Before you go and make the XKCD standards meme more true, have you considered:
+
+-->
+
+---
+
+# 🔀
+
+<!--
 
 Contributing back to fix it?
 
+-->
+
+---
+
+# 🚀
+
+<!--
+
 Submitting a PR will likely not only take less time than starting from scratch, but also make the solution more useful for everyone else!
+
+-->
+
+---
+
+# 📈
+
+<!--
 
 Which in turn, makes the solution more popular,
 
+-->
+
+---
+
+# 💎
+
+<!--
+
 and thus, becomes a compounding investment in the project's success and sustainability.
+
+-->
+
+---
+
+# 🤷
+
+<!--
 
 But maybe a PR doesn't make sense.
 
+-->
+
+---
+
+# 
+
+<!--
+
 Maybe the change is too different for the project.
+
+-->
+
+---
+
+# 🚫
+
+<!--
 
 Or maybe the author doesn't want to accept it.
 
+-->
+
+---
+
+# 🍴
+
+<!--
+
 Then before starting from scratch, consider making your changes on a fork!
+
+-->
+
+---
+
+# ⏱️
+
+<!--
 
 This will not only be a time save for you, but also anyone else who follows your path.
 
+-->
+
+---
+
+# 🔄
+
+<!--
+
 Even if you don't want the work to be public, you'll still save yourself time, especially if the upstream project makes changes that you could merge and benefit from.
+
+-->
+
+---
+
+# ✅
+
+<!--
 
 But if you're adamant that you must start from scratch, that's fine too.
 
+-->
+
+---
+
+# 👌
+
+<!--
+
 And it's okay not to like something or not have the time.
+
+-->
+
+---
+
+# 🐛
+
+<!--
 
 Like, it's not always the case that fixing a bug will be easier than starting from scratch.
 
+-->
+
+---
+
+# 💭
+
+<!--
+
 At the end of the day, there's nothing that can force you to make these choices. They have to come from within.
+
+-->
+
+---
+
+# 📝
+
+<!--
 
 And if it does pain you to create another standard, I do encourage you to at least leave some feedback, or a trail, for others who search to find your path.
 
@@ -988,13 +1391,39 @@ And if it does pain you to create another standard, I do encourage you to at lea
 duration: 1min
 ---
 
+# 🔍
+
 <!--
 
 What if you've honestly searched everywhere. Across different search engines, hosted code platforms, and have asked AI _and_ your network. What if you've basically scoured the earth but still couldn't find anything?
 
+-->
+
+---
+
+# 🚀
+
+<!--
+
 Then don't let me stop you!
 
+-->
+
+---
+
+# 🏗️
+
+<!--
+
 Go forth and build!
+
+-->
+
+---
+
+# 🧠
+
+<!--
 
 But I hope you'll do so with a new frame of mind, so that tomorrow, when Ash thinks about building the same thing, they'll quickly discover your work, and maybe, your work will be inspiring enough for them to contribute back and improve upon your work, rather than decide to start from scratch, and build something internally that will never see the light of day.
 
@@ -1002,16 +1431,42 @@ But I hope you'll do so with a new frame of mind, so that tomorrow, when Ash thi
 
 ---
 
+# ❓
+
 <!--
 But wait, should you actually build it?
 
 # TODO: Title
 
+-->
+
+---
+
+# 🌐
+
+<!--
+
 Think about the system
+
+-->
+
+---
+
+# 🤔
+
+<!--
 
 This is a question we often don't get to ask in our excitement.
 
 # TODO: Can I incorporate a single example as the main thread?
+
+-->
+
+---
+
+# 👀
+
+<!--
 
 If we pause for a moment, breathe, look around us, and remove the blinders of excitement, then we could ask, what is the underlying system that we see at play?
 
@@ -1019,27 +1474,109 @@ If we pause for a moment, breathe, look around us, and remove the blinders of ex
 
 ---
 
+# 📚
+
 <!--
 
 This is one of the core principles that Donella Meadows highlights in her book "Thinking in Systems"
 
+-->
+
+---
+
+# 🌲
+
+<!--
+
 She gives the example of the late 1900's Canadian lumber industry which would harvest Spruce and Fir trees.
+
+-->
+
+---
+
+# 🐛
+
+<!--
 
 However, they had a problem, the Budworm pest, which would kill these trees.
 
+-->
+
+---
+
+# 💉
+
+<!--
+
 So over 30 years, they sprayed pesticides.
+
+-->
+
+---
+
+# 📈💰
+
+<!--
 
 Each year became more and more expensive, and by 1980, they had spent an unmanageable 12.5 million in that year alone.
 
+-->
+
+---
+
+# ❓
+
+<!--
+
 Why was this considered unmanageable?
+
+-->
+
+---
+
+# 🌲💀
+
+<!--
 
 Well after 30 years of spraying, the Budworm was still killing as many as 20 million hectares of trees per year.
 
+-->
+
+---
+
+# 🔬
+
+<!--
+
 It wasn't until two Ecology and Forestry researchers built a computer model to get a whole system look, that they discovered that the Budworm wasn't a pest.
+
+-->
+
+---
+
+# 🔄
+
+<!--
 
 The Budworm was an important element of the ecosystem. 
 
+-->
+
+---
+
+# 🌲
+
+<!--
+
 Without the Budworm, these forests would become a monoculture of Fir, which was the Budworm's favourite food.
+
+-->
+
+---
+
+# 🦟
+
+<!--
 
 And these pesticides, would not only increase the Budworm's food supply, but also it's predators, which where there to keep it in check from exploding in an uncontrollable manner.
 
@@ -1047,15 +1584,49 @@ And these pesticides, would not only increase the Budworm's food supply, but als
 
 ---
 
+# 💻
+
 <!--
 
 If we extrapolate this example into the world of software, it'd be like 
 
+-->
+
+---
+
+# 📝
+
+<!--
+
 when we waste time in every review on nits.
+
+-->
+
+---
+
+# 🤔
+
+<!--
 
 If we stop to analyse the system, we could realise that, they could be accepted as being inevitable. 
 
+-->
+
+---
+
+# 
+
+<!--
+
 Maybe that's not an answer, because like Budworms, too many nits can affect the final product.
+
+-->
+
+---
+
+# 🛠️
+
+<!--
 
 And instead it's worth taking a different approach, like changing the tree harvesting strategy, or like adding lint rules to stop nits from getting to a review in the first place.
 
@@ -1072,74 +1643,319 @@ expect that flakey tests will happen, and write tools to track them?
 
 ---
 
+# Nothing >>> Something
+
 <!-- 
 
 # TODO: Title
 
 Nothing, is infinitely better than something.
 
+-->
+
+---
+
+# 📡
+
+<!--
+
 A real scenario that a developer came across (and almost became an Ash) was when they were working on a country wide High Frequency network.
+
+-->
+
+---
+
+# 📡🔄
+
+<!--
 
 The network was built to communicate between a source and destination.
 
+-->
+
+---
+
+# 📶
+
+<!--
+
 And it had to ensure that it was doing so with the best signal.
+
+-->
+
+---
+
+# 📻
+
+<!--
 
 Because when you're sending over a High Frequency, there can be a lot of noise and interference.
 
+-->
+
+---
+
+# 🔮
+
+<!--
+
 So the network had been built so that on every transmission, it would predict what configuration would produce the best signal.
+
+-->
+
+---
+
+# 🌍
+
+<!--
 
 It would predict this configuration by running calculations on things like the state of the ionosphere,
 
+-->
+
+---
+
+# 📡
+
+<!--
+
 the type, location, and orientation of the source and destination antennas.
+
+-->
+
+---
+
+# 📊
+
+<!--
 
 And after making this prediction and transmission, it could compare the signal quality against the prediction. 
 
+-->
+
+---
+
+# ✅
+
+<!--
+
 Now this network was fully functional and battle tested.
+
+-->
+
+---
+
+# 💡
+
+<!--
 
 But this developer was given a feature request.
 
+-->
+
+---
+
+# 🔍
+
+<!--
+
 Given they know what state produces a good signal quality.
+
+-->
+
+---
+
+# 💾
+
+<!--
 
 It should be cached, so they don't have to run these expensive calculations. 
 
+-->
+
+---
+
+# 
+
+<!--
+
 Now a cache is not exactly a difficult implementation.
+
+-->
+
+---
+
+# 🤔
+
+<!--
 
 But this developer, having built out, and having a deep understanding of the system, decided to think about it.
 
+-->
+
+---
+
+# 📝
+
+<!--
+
 And they realised that the cache would need:
+
+-->
+
+---
+
+# 📻
+
+<!--
 
 The transmission frequency
 
+-->
+
+---
+
+# 📡
+
+<!--
+
 The transmitter power, antenna type, orientation, and location of the source antenna.
+
+-->
+
+---
+
+# 📡
+
+<!--
 
 The transmitter power, antenna type, orientation, and location of the destination antenna.
 
+-->
+
+---
+
+# 🌍
+
+<!--
+
 (Side note, countries are quite big)
+
+-->
+
+---
+
+# ❓
+
+<!--
 
 But did that matter, if calculating the state of the ionosphere needed:
 
+-->
+
+---
+
+# 🕐
+
+<!--
+
 The time of day,
+
+-->
+
+---
+
+# 📅
+
+<!--
 
 The time of year,
 
+-->
+
+---
+
+# ☀️
+
+<!--
+
 And where you are in the the 11 year solar cycle?
+
+-->
+
+---
+
+# ⏰
+
+<!--
 
 Effectively making the cache only useable once every 11 years
 
+-->
+
+---
+
+# 🤷
+
+<!--
+
 If at all, considering how many things change in a decade.
+
+-->
+
+---
+
+# ❌
+
+<!--
 
 I don't blame whoever had suggested the feature.
 
+-->
+
+---
+
+# 🧠 
+
+<!--
+
 On the surface it was a perfectly reasonable idea
+
+-->
+
+---
+
+# 💡
+
+<!--
 
 And it's in our human nature to want to improve things.
 
+-->
+
+---
+
+# 🎯
+
+<!--
+
 To me, it shows the importance of having a good understanding of the system.
+
+-->
+
+---
+
+# 🧠
+
+<!--
 
 The ability to apply critical thinking, before excitedly rushing to a what would have been an easy implementation that would have no effect. 
 
 -->
 
+---
+layout: image
+image: /iq_meme.png
 ---
 
 <!--
@@ -1148,23 +1964,101 @@ There's this meme that I love.
 
 # TODO: Insert meme
 
+-->
+
+---
+layout: image
+image: /iq_meme.png
+---
+
+<!--
+
 The dev on the left of the bell curve uses the built in sort function to sort a list.
+
+-->
+
+---
+layout: image
+image: /iq_meme.png
+---
+
+<!--
 
 The average dev implements their own sort function with some tests. 
 
+-->
+
+---
+layout: image
+image: /iq_meme.png
+---
+
+<!--
+
 The dev on the right, uses the built in sort function and doesn't write tests because it's the built in sort.
+
+-->
+
+---
+layout: image
+image: /iq_meme.png
+---
+
+<!--
 
 And the dev on far right tail end, removes the sort function because the list was already sorted.
 
+-->
+
+---
+layout: image
+image: /iq_meme.png
+---
+
+<!--
+
 And I think that love this meme because you can apply it to anything.
+
+-->
+
+---
+
+> "[Instead of thinking] How can I make this engineering process faster, maybe look at how you can get rid of whatever it is completely"
+
+<!--
 
 Similarly, one of my favourite quotes: 
 
 "[Instead of thinking] How can I make this engineering process faster, maybe look at how you can get rid of whatever it is completely"
 
+-->
+
+
+---
+
+# 🧪
+
+<!--
+
 Instead of thinking, how can I fix this flakey test, maybe look at what value that test is providing in the first place.
 
+-->
+
+---
+
+# ♾️
+
+<!--
+
 Removing that test, that process, that would now no longer provide value, is infinity more valuable than perpetually spending time fixing it.
+
+-->
+
+---
+
+# 🌐
+
+<!--
 
 But that's not possible if you don't truly understand the system.
 
@@ -1172,85 +2066,335 @@ But that's not possible if you don't truly understand the system.
 
 ---
 
+# ⏸️
+
 <!--
 
 One way to think about the system is to bias for inaction.
 
+-->
+
+---
+
+# 🚫
+
+<!--
+
 Don't just build what you're told.
+
+-->
+
+---
+
+# ❓
+
+<!--
 
 Question the why, to help you understand the underlying problem.
 
+-->
+
+---
+
+# 5️⃣❓
+
+<!--
+
 Use the 5 whys technique to drill in.
 
+-->
+
+---
+
+# 🎯
+
+<!--
+
 We'll keep asking why to figure out what we're really trying to solve.
+
+-->
+
+---
+
+# 🧑‍💻
+
+<!--
 
 And we'll bring Ash back, to put this into perspective.
 
 # TODO: Remove the asking?
 
+-->
+
+---
+
+# 📋
+
+<!--
+
 Ash was asked to build a past uploads screen.
+
+-->
+
+---
+
+# 🖼️
+
+<!--
 
 A screen where users could see all their past uploads, so that they could easily find and embed a previously uploaded file, without having to re-upload it.
 
 # TODO: Better name for the requestor
 
+-->
+
+---
+
 Requestor: We need to build a past uploads screen!
 
-Why #1
+<!--
+
+Requestor: We need to build a past uploads screen!
+
+-->
+
+---
+
+# Why #1
 
 Ash: Why do we need to build a past uploads screen?
 
+<!--
+
+Ash: Why do we need to build a past uploads screen?
+
+-->
+
+---
+
 Requestor: So users can quickly upload previous files served from a thumbnail service.
 
-Why #2
+<!--
+
+Requestor: So users can quickly upload previous files served from a thumbnail service.
+
+-->
+
+---
+
+# Why #2
 
 Ash: Why do we need a thumbnail service?
 
+<!--
+
+Ash: Why do we need a thumbnail service?
+
+-->
+
+---
+
 Requestor: To generate and serve thumbnails for past uploads.
 
-Why #3
+<!--
+
+Requestor: To generate and serve thumbnails for past uploads.
+
+-->
+
+---
+
+# Why #3
 
 Ash: Why do we need thumbnails for past uploads, could we use the original images instead?
 
+<!--
+
+Ash: Why do we need thumbnails for past uploads, could we use the original images instead?
+
+-->
+
+---
+
 Requestor: Well, if we did that, users would be making too many large requests.
 
-Why #4
+<!--
+
+Requestor: Well, if we did that, users would be making too many large requests.
+
+-->
+
+---
+
+# Why #4
 
 Ash: Why would users be making large requests?
 
+<!--
+
+Ash: Why would users be making large requests?
+
+-->
+
+---
+
 Requestor: Well, if they have a lot of past uploads. Especially if each one is megabytes in size!
 
-Why #5
+<!--
+
+Requestor: Well, if they have a lot of past uploads. Especially if each one is megabytes in size!
+
+-->
+
+---
+
+# Why #5
 
 Ash: Why would users have a lot of past uploads? How many users have more than 2 past uploads?
 
+<!--
+
+Ash: Why would users have a lot of past uploads? How many users have more than 2 past uploads?
+
+-->
+
+---
+
 Requestor: Uh, let me check... Yeah right now, zero.
+
+<!--
+
+Requestor: Uh, let me check... Yeah right now, zero.
+
+-->
+
+---
+
+# ✅
+
+<!--
 
 With this questioning, Ash was able to avoid building out an entire feature which would have had no users.
 
 # TODO: Rephrase "if asked ...?"
 
+-->
+
+---
+
+# 🤝
+
+<!--
+
 If these questions are asked in a respectful manner, it can't hurt.
+
+-->
+
+---
+
+# 📊
+
+<!--
 
 In fact it'll help you to understand the value to the customer, so that you're closer to the problem at hand.
 
+-->
+
+---
+
+# 
+
+<!--
+
 And the request doesn't have to be entirely ignored either. Because in reality, it is a valid request!
+
+-->
+
+---
 
 Ash: I do see your concern. What do you think about keeping a track of that metric, and re-evaluating it when it starts to affect more users? 
 
+<!--
+
+Ash: I do see your concern. What do you think about keeping a track of that metric, and re-evaluating it when it starts to affect more users? 
+
+-->
+
+---
+
+# 📊
+
+<!--
+
 This is data driven design, and it is too often ignored.
+
+-->
+
+---
+
+# 😢
+
+<!--
 
 Which is a shame because we're an industry that can utilise it so quickly and effectively.
 
+-->
+
+---
+
+# 🚫
+
+<!--
+
 Because otherwise, the alternative looks like:
+
+-->
+
+---
+
+# 📅
+
+<!--
 
 Weeks of:
 
+-->
+
+---
+
+# ⏰
+
+<!--
+
 Engineering time spent on implementing additional complexity, and testing that the spec was followed.
+
+-->
+
+---
+
+# 🔧
+
+<!--
 
 Only to be followed by the inevitable burden of keeping it maintained,
 
+-->
+
+---
+
+# 🐛
+
+<!--
+
 dealing with newly introduced bugs for users
+
+-->
+
+---
+
+# 📦
+
+<!--
 
 and the dependency hell that all other developers now need to deal with, because this feature required installing a special package that now fails all new builds.
 
@@ -1258,26 +2402,100 @@ and the dependency hell that all other developers now need to deal with, because
 
 ---
 
+# 🏗️
+
 <!-- 
 What if you do have to build something?
 
 # TODO: Title
 
-Focus on the minimum
+-->
+
+---
+
+# Focus on the minimum
+
+<!--
 
 Then, focus on the minimum.
 
+-->
+
+---
+
+# 🤏
+
+<!--
+
 Start small, and with a mindset that allows for easy change.
+
+-->
+
+---
+
+# 😒
+
+<!--
 
 A developer like Ash, would easily hate on boring implementations.
 
+-->
+
+---
+
+# 📊
+
+<!--
+
 They'd go crazy on the suggestion to use a spreadsheet as a database.
+
+-->
+
+---
+
+# 
+
+<!--
 
 They'd say:
 
+-->
+
+---
+
+# 📈
+
+<!--
+
 - "It won't scale!"
+
+-->
+
+---
+
+# 🧪
+
+<!--
+
 - "How would you test that?"
+
+-->
+
+---
+
+# ❌
+
+<!--
+
 - "What about invalid data?"
+
+-->
+
+---
+
+# ✅
+
+<!--
 
 But in practice, it can work quite well!
 
@@ -1285,31 +2503,139 @@ But in practice, it can work quite well!
 
 ---
 
+# 💼
+
 <!--
 
 Levels.fyi a career site that aggregates job salaries for tech professionals. 
 
+-->
+
+---
+
+# 1-2 million
+
+<!--
+
 And it serves over 1 to 2 millions users a month.
+
+-->
+
+---
+
+# 100,000
+
+<!--
 
 But can you believe that when they started back in 2017, for their first few years, they had no backend, and stored over 100 thousand salaries in a google sheet?
 
+-->
+
+---
+
+# ✅
+
+<!--
+
 It makes perfect sense.
+
+-->
+
+---
+
+# 🤷
+
+<!--
 
 Because when they started, they didn't know or care if it'd grow to that size.
 
+-->
+
+---
+
+# 🎯
+
+<!--
+
 What they cared about, was:
 
+-->
+
+---
+
+# 🚀
+
+<!--
+
 - the ability to launch quickly
+
+-->
+
+---
+
+# 💰
+
+<!--
+
 - saving money
+
+-->
+
+---
+
+# ⏰
+
+<!--
+
 - and saving time
+
+-->
+
+---
+
+# 🎯
+
+<!--
 
 which they could use to focus on the product.
 
+-->
+
+---
+
+# 🤔
+
+<!--
+
 Because, how your data is stored makes no difference if no one wanted the product, if there was no data to store.
+
+-->
+
+---
+
+# 📝
+
+<!--
 
 And the quickest way for them to launch? 
 
+-->
+
+---
+
+# 📋
+
+<!--
+
 A google form.
+
+-->
+
+---
+
+# 🔄
+
+<!--
 
 By starting simple, and validating their idea, they were then able to iterate as they needed based on user data and feedback.
 
@@ -1317,21 +2643,79 @@ By starting simple, and validating their idea, they were then able to iterate as
 
 ---
 
+# ⚠️
+
 <!--
 
 Now I don't want you to walk away from this thinking that everything should be hacked together.
 
+-->
+
+---
+
+# 🎨
+
+<!--
+
 This wouldn't be possible without good design.
+
+-->
+
+---
+
+# 📐
+
+<!--
 
 The schema of your data doesn't live in the database.
 
+-->
+
+---
+
+# 🔌
+
+<!--
+
 It lives in the interface between the database.
+
+-->
+
+---
+
+# 💭
+
+<!--
 
 Because if your product's architecture has been thoughtfully designed around data. 
 
+-->
+
+---
+
+# 📋
+
+<!--
+
 Such as interfaces that are well specified.
 
+-->
+
+---
+
+# 📊
+
+<!--
+
 And metrics to signal actions.
+
+-->
+
+---
+
+# 😊
+
+<!--
 
 Then migrating between components when the time calls, can be a short, well trodden path.
 
@@ -1348,14 +2732,59 @@ Then migrating between components when the time calls, can be a short, well trod
 # TODO: Can a real example or story be used for the counterfactual?
 ---
 
+# 🚫
+
 <!--
 
 The counterfactual, of the problems that a developer like Ash would have come across?
 
+-->
+
+---
+
+# 🏗️
+
+<!--
+
 - Well first, they would have had to spend time, building, and maintaining a backend to process the data, and a database to store it.
+
+-->
+
+---
+
+# 💰
+
+<!--
+
 - Then, they would have had to pay for hosting these servers (or the costs of time and downtime if they had hosted it themselves)
+
+-->
+
+---
+
+# 🔄
+
+<!--
+
 - There's also the cost of running migrations, every inevitable time there's a schema change.
+
+-->
+
+---
+
+# 😖
+
+<!--
+
 - And, the overhead of viewing and understanding the data, especially for non developers.
+
+-->
+
+---
+
+# 🗑️
+
+<!--
 
 Which, would have all gone to waste if the idea didn't work.
 
@@ -1363,13 +2792,39 @@ Which, would have all gone to waste if the idea didn't work.
 
 ---
 
+# 📝
+
 <!--
 
 So remember.
 
+-->
+
+---
+
+# 😴
+
+<!--
+
 Boring is good.
 
+-->
+
+---
+
+# ✅
+
+<!--
+
 It's simple, well tested, well known, and well defined.
+
+-->
+
+---
+
+# 🚀
+
+<!--
 
 Don't excitedly run past the wonders of simplicity, with only premature optimisation in mind.
 
@@ -1377,31 +2832,129 @@ Don't excitedly run past the wonders of simplicity, with only premature optimisa
 
 ---
 
+# 🎯
+
 <!--
 
 But focusing on the minimum is not only for when you're thinking about the initial build. 
 
+-->
+
+---
+
+# 💭
+
+<!--
+
 It should be on your mind even after you've built it.
+
+-->
+
+---
+
+# 🤖
+
+<!--
 
 When computers start to act up and seemingly do random things,
 
+-->
+
+---
+
+# 📋
+
+<!--
+
 it's easy to forget that they're actually doing exactly what they're told.
+
+-->
+
+---
+
+# 🔄
+
+<!--
 
 And that problems will only arise, when things change.
 
+-->
+
+---
+
+# 🎯
+
+<!--
+
 So focus on changing the minimum.
+
+-->
+
+---
+
+# 💥
+
+<!--
 
 Has production ever gone down,
 
+-->
+
+---
+
+# ⏪
+
+<!--
+
 and after you've rolled back to a known working commit (hopefully, rather than rolling forward)
+
+-->
+
+---
+
+# 🔍
+
+<!--
 
 You've not only turned off a bunch of unrelated features, but now have to rake through thousands of lines of code, to find the one issue?
 
+-->
+
+---
+
+# 📝
+
+<!--
+
 Or while changing some code, have you come across a nit, that seems ever so small, and seemingly unoffending, only to later find out that it broke prod?
+
+-->
+
+---
+
+# 🙋
+
+<!--
 
 I know I have.
 
+-->
+
+---
+
+# 📖
+
+<!--
+
 And I've learnt the lesson that,
+
+-->
+
+---
+
+# 📈
+
+<!--
 
 The more code that is introduced, and the more changes that are made, the more time we have to spend on maintaining, or navigating when we add new code.
 
@@ -1428,6 +2981,7 @@ Any questions?
 -->
 
 ---
+
 # What is Slidev?
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
