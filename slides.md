@@ -12,6 +12,7 @@ drawings:
 duration: 40min
 # TODO: figure out why this needs to be 1920/2 to set the width to 1920
 canvasWidth: 960
+mdc: true
 ---
 
 # Excited Developer Syndrome
@@ -29,6 +30,27 @@ Hello Everyone!
 ---
 
 # Excited Developer Syndrome
+
+<!--
+Are you...
+-->
+
+---
+
+# Excited [Developer Syndrome]{style="opacity:50%"}
+
+<!--
+TODO: Add giggle gif/image e.g. https://www.youtube.com/watch?v=dgzyorveKJc
+
+Are you...
+excited...
+to be here?
+-->
+
+---
+layout: image
+image: /giggle_rage_comic.png
+---
 
 <!--
 TODO: Add giggle gif/image e.g. https://www.youtube.com/watch?v=dgzyorveKJc
@@ -49,11 +71,34 @@ Okay great then we're off to a good start!
 
 So today I want to talk about a phenomenon I'm coining "Excited Developer Syndrome"
 
+-->
+---
+
+# Def: ...
+
+<!--
+
 And instead of giving you a boring definition
+
+-->
+
+---
+
+# 📖
+
+<!--
 
 We'll start with an example
 
 a story
+
+-->
+
+---
+
+# 👨‍💻 Alex 
+
+<!--
 
 of a developer named alex
 
@@ -63,15 +108,84 @@ oh no...
 
 Okay we'll start with the story
 
+-->
+
+---
+
+# 👨‍💻 Ash
+
+<!--
+
 of a developer named ash
 
-Ash was an amazing programmer. Not only because they knew all their fundamentals.
+
+-->
+
+---
+
+# ✨
+
+<!--
+
+Ash was an amazing programmer.
+
+-->
+
+---
+
+# 🏗️
+
+<!--
+
+Not only because they knew all their fundamentals.
+
+-->
+
+---
+
+# 🧑‍🎓
+
+<!--
 
 But they were a quick learner, and loved learning new things! 
 
-And whenever they were bored with the status quo, they'd look up the latest trends and cool technologies.
+-->
+
+---
+
+# 🙄
+
+<!--
+
+And whenever they were bored with the status quo
+
+-->
+
+---
+
+# 😎
+
+<!--
+
+they'd look up the latest trends and cool technologies.
+
+-->
+
+---
+
+# 💪
+
+<!--
 
 The week Ash joined their new team, they were quickly able to finish their first ticket.
+
+-->
+
+---
+
+# 🤔
+
+<!--
 
 But Ash wasn't just a good learner.
 
@@ -79,51 +193,262 @@ They also had sparks of curiosity.
 
 By the end of their first month, they had questioned, and were able to identify multiple problems the company was facing.
 
+-->
+
+---
+
+# 😠 
+
+<!--
+
 But Ash wasn't a complainer
 
 They knew that solutions spoke louder than problems.
 
-And Ash was good at building out solutions, and doing so quickly.
+-->
+
+---
+
+# 🏗️
+
+<!--
+
+And Ash was *good* at building out solutions
+
+-->
+
+---
+
+# 💨
+
+<!--
+
+and doing so quickly.
+
+-->
+
+---
+
+# ✋ 
+
+<!--
 
 Now can I get a show of hands for who can relate to Ash?
 
 Okay about X of you.
 
+-->
+
+---
+
+# ✋ 
+
+<!--
+
 What about someone who knows of someone like Ash?
 
 Okay about Y of you.
 
+-->
+
+---
+
+# 🥳 
+
+<!--
+
 Ash was doing quite well. In fact, so well that it didn't make sense for them to stay where they were.
 
-Throughout their career, Ash would get promoted, change teams, change companies, become a manager.
+Throughout their career,
 
-Which was great news for Ash!
+-->
+
+---
+
+# 🏅 
+
+<!--
+
+Ash would get promoted,
+
+-->
+
+---
+
+# 👥
+
+<!--
+
+change teams,
+
+-->
+
+---
+
+# 🏢
+
+<!--
+
+change companies,
+
+-->
+
+---
+
+# 🦸
+
+<!--
+
+become a leader,
+
+-->
+
+---
+
+# 📣 
+
+<!--
+
+a manager.
+
+-->
+
+---
+
+# 🚀 
+
+<!--
+
+All, which was great news for Ash!
+
+-->
+
+---
+
+# ⏲️ 
+
+<!--
 
 But this was a problem because, inevitably, Ash will now have less time, and move further and further away from what they had built.
 
+# TODO: distant image for further away?
+
+-->
+
+---
+
+# 🚶💣
+
+<!--
+
 Having handed over their work, they would no longer be responsible for the code and technical debt they had written, which would be a pain to fix when it fails.
+
+-->
+
+---
+
+# 🚶💣
+
+<!--
 
 They'll no longer be around to see where their choice of new technology is failing, how things are incorrectly used, or where they should have been improved.
 
+-->
+
+---
+
+# 🥳
+
+<!--
+
 And in their excitement to build out solutions to all the problems that they thought they saw,
+
+-->
+
+---
+
+# 🛑
+
+<!--
 
 They never really stopped to fully understand the problem at hand, or to deeply investigate why things were the way they were, and maybe realise that the best solution didn't require new code at all.
 
+-->
+
+---
+
+# ❌🍀
+
+<!--
+
 And this is not uncommon.
+
+-->
+
+---
+
+# ✋
+
+<!--
 
 Can I get a show of hands, if you can still relate to Ash, or met someone like them?
 
 That's still quite a lot of you...
 
+-->
+
+---
+
+# Excited Developer Syndrome
+
+<!--
+
 This is the "Excited Developer Syndrome"
+
+-->
+
+---
+
+# Excited Developer Syndrome 
+## Def: A developer, who is excited for building out quick solutions, before fully understanding the problem at hand, and thus often become unmaintainable out of not retaining responsibility. 
+
+<!--
 
 # TODO: Refine definition?
 
 A developer, who is excited for building out quick solutions, before fully understanding the problem at hand, and thus often become unmaintainable out of not retaining responsibility. 
 
-Now given that so many of you can relate to the "Excited Developer Syndrome", that is so prevalent within our industry, where building becomes easier by the day, what can one do to prevent it, to stop it from happening to us?
+-->
 
-# TODO: Link to other sources
+---
+
+# 👥
+
+<!--
+
+Now given that so many of you can relate to the "Excited Developer Syndrome", that is so prevalent within our industry,
+
+-->
+
+---
+
+# 🤖
+
+<!--
+
+where building becomes easier by the day,
+
+-->
+
+---
+
+# 🛑
+
+<!--
+
+what can one do to prevent it, to stop it from affecting to us?
+
+# TODO: Give sources? Why people should listen?
 # TODO: Add clarity when it's the right mindset to have
 -->
 
@@ -131,38 +456,181 @@ Now given that so many of you can relate to the "Excited Developer Syndrome", th
 duration: 9.5min
 ---
 
+# 🤔
+
 <!--
 The first thing would be to think about existing solutions.
 
-# TODO: Title the phrase below 
+-->
 
-Your proposal (to an existing solution) is not unique.
+---
+
+# Your proposal is not unique.
+
+<!--
+
+Your proposal (to an existing problem) is not unique.
+
+-->
+
+---
+
+# 🧠
+
+<!--
 
 But how can I make this claim when there's over 8 billion minds on this earth?
 
+-->
+
+---
+
+# 1.
+# 2.
+
+<!--
+
 Well, it's because of two phenomenon.
+
+-->
+
+---
+
+# 1. Law of truly large numbers.
+# 2. 
+
+<!--
 
 The first is the Law of truly large numbers.
 
-Not to be confused with the law of large numbers, which says that if I take the average of all of your guesses for how many ...
+-->
+
+---
+
+# NOT law of large numbers
+
+<!--
+
+Not to be confused with the law of large numbers, which says that if I take the average of all of your guesses for how many jelly beans are in this jar, it'd converge to be correct. 
+
+# TODO: Add jellybean jar
+
+-->
+
+---
+
+# 1. Law of truly large numbers.
+# 2. 
+
+<!--
 
 The law of *truly* large numbers effectively states that the chance for a 1 in a billion event to happen more than once across 8 billion people is 99.96%
 
+# TODO: add diagram
+
+-->
+
+---
+
+# 1. Law of truly large numbers.
+# 2. Simultaneous Invention
+
+<!--
+
 The second phenomenon is simultaneous invention.
+
+-->
+
+---
+
+# ✋☎️
+
+<!--
 
 Raise your hand if you knew that the Telephone was also invented and had a patent submitted by Elisha Gray on the same day.
 
 Alexander Bell's only became known because his lawyers paid the fees immediately.
 
+-->
+
+---
+
+# ✋🧑‍🔬
+
+<!--
+
 Raise your hand if you knew that Henri Poincare also invented E=mc2, and that Einstein only provided the accepted interpretation.
+
+-->
+
+---
+
+# ✋🖥️
+
+<!--
 
 Or if you knew that the Turing Machine was also proposed in the same year independently by Emil Post
 
-My favourite one, RSA was described 4 years earlier by Clifford Cocks, who couldn't say anything because he was working for UK's intelligence agency.
+-->
 
-So we have this combination of phenomenon, where one says that a solution already exists, and the other, that it's hidden or hard to find.
+---
+
+# 🤚👨‍💻
+
+<!--
+
+My favourite one, did anyone know that RSA was described 4 years earlier by Clifford Cocks, who couldn't say anything because he was working for UK's intelligence agency.
+
+-->
+
+---
+
+# 1. Law of truly large numbers.
+# 2. Simultaneous Invention
+
+<!--
+
+So we have this combination of phenomenon,
+
+-->
+
+---
+
+# 1. Law of truly large numbers.
+# [2. Simultaneous Invention]{style="opacity:50%"}
+
+<!--
+
+where one says that a solution already exists,
+
+-->
+
+---
+
+# [1. Law of truly large numbers.]{style="opacity:50%"}
+# 2. Simultaneous Invention
+
+<!--
+
+and the other, that it's hidden or hard to find.
+
+-->
+
+---
+
+# 🚶
+
+<!--
 
 And I'm sure you've come across this in your daily life.
+
+-->
+
+---
+
+# 🔍 
+
+<!--
 
 Have you ever searched for something on Google, to surprisingly (and seemingly) get no results?
 
@@ -170,51 +638,225 @@ Every time I come across this, I definitely don't take absence as the answer.
 
 # TODO: Show un-indexed project
 
+-->
+
+---
+
+# 🐙
+
+<!--
+
 Many things, like software projects deep within GitHub aren't or can't be indexed.
 
 # TODO: Show google search example
 
+-->
+
+---
+
+# 🪡
+
+<!--
+
 Or, they're a needle in the haystack of hundreds of fake pages exploiting the search engine optimization algorithm (or SEO).
+
+-->
+
+---
+
+# 💡
+
+<!--
 
 So my advice here is to get creative.
 
+-->
+
+---
+
+# ❌
+
+<!--
+
 Don't just rely on Google.
+
+-->
+
+---
+
+# 🦆
+
+<!--
 
 Try other search engines.
 
+-->
+
+---
+
+# 🦊 
+
+<!--
+
 Search GitHub, and other code repositories (and note that GitLab requires you to log in...)
+
+-->
+
+---
+
+# gitlab-ci-local
+
+<!--
 
 For example, I've found tools for GitLab to only exist on GitHub.
 
-Or if there's still not results, try using an LLM's deep research, which is helpful in bypassing SEO bloat, and understanding the underlying intent of your words.
+-->
+
+---
+
+# 🤖
+
+<!--
+
+Or if there's still not results, try using an LLM's deep research,
+
+# TODO: Add image of deep research
+
+-->
+
+---
+
+# TODO: Image of SEO Bloat 
+
+<!--
+
+which is helpful in bypassing SEO bloat,
+
+-->
+
+---
+
+# 🧑‍🏫
+
+<!--
+
+and understanding the underlying intent of your words.
+
+# TODO: provide example
+
+-->
+
+---
+
+# Type II
+
+<!--
 
 In either case, be wary of Type 2 errors. 
+
+-->
+
+---
+
+# 🐀
+
+<!--
 
 A Type 2 error is like a faulty COVID test that says you don't have COVID.
 
 Just because you got no results, doesn't mean it doesn't exist. 
 
-These tools aren't sources of truth.
-
-Because these tools can't find what hasn't been made public.
-
-For example, a show of hands from anyone whose made a tool at work that you couldn't share, or a personal tool that you didn't get around to sharing, or were comfortable making public? 
-
-That's about X of you, and if you consider that this is a conference about Open Source, the reality is probably less!
-
-And I bet that if we all talked to each other, there'd be at least one of you who was looking for a solution, and another who had already built it.
 -->
 
 ---
 
+# ❌🔮 
+
 <!--
+
+None of these tools are sources of truth.
+
+Because putting aside whether they're well made
+
+-->
+
+---
+
+# ❌🔮 
+
+<!--
+
+these tools can't find what hasn't been made public.
+
+-->
+
+---
+
+# ✋ 
+
+<!--
+
+For example, a show of hands from anyone whose made a tool at work that you couldn't share, or a personal tool that you didn't get around to sharing, or for which you weren't comfortable making public? 
+
+That's about X of you, and if you consider that this is a conference about Open Source, the reality is probably less!
+
+-->
+
+---
+
+# 🗣️ 
+
+<!--
+
+And I bet that if we all talked to each other, there'd be at least one of you who was looking for a solution, and another who had already built it.
+
+-->
+
+---
+
+# 🧑‍💻 Ash
+
+<!--
+
 I'd also gamble that on multiple occasions, someone like Ash _did_ find a solution but decided not to use it.
+
+-->
+
+---
+
+# ❓ 
+
+<!--
 
 Why?
 
+-->
+
+---
+
+# Not Invented Here
+
+<!--
+
 Ash was likely a victim of Not Invented Here, a bias against ideas from the outside.
 
+-->
+
+---
+
+# 📜
+
+<!--
+
 And empirically you don't want this bias, because a 1982 study by Ralph Katz and Thomas J. Allen shows that it causes performance to decline.
+
+-->
+
+---
+
+# 🏗️ 
+
+<!--
 
 But I've seen too many companies decide to re-build solutions in house, for solutions that exist as paid, managed products.
 
