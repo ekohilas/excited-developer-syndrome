@@ -224,7 +224,7 @@ Throughout their career,
 # 🏅 
 
 <!--
-Ash would get promoted,
+Ash would get promoted, for integrating that cool new technology,
 -->
 
 ---
@@ -232,7 +232,7 @@ Ash would get promoted,
 # 👥
 
 <!--
-change teams,
+when they got curious for what else they could build, they'd change teams,
 -->
 
 ---
@@ -240,7 +240,7 @@ change teams,
 # 🏢
 
 <!--
-change companies,
+and when they got bored, they'd change companies to work on the next big thing.
 -->
 
 ---
@@ -248,7 +248,7 @@ change companies,
 # 🦸
 
 <!--
-become a leader,
+And to guide others down their path, they became a leader, and a manager. 
 -->
 
 ---
@@ -272,7 +272,7 @@ All, which was great news for Ash!
 # ⏲️ 
 
 <!--
-But this was a problem because, inevitably, Ash will now have less time, and move further and further away from what they had built.
+And Ash will now have less time, and move further and further away from what they had built.
 
 # TODO: distant image for further away?
 -->
@@ -282,7 +282,21 @@ But this was a problem because, inevitably, Ash will now have less time, and mov
 # 🚶💣
 
 <!--
-Having handed over their work, they would no longer be responsible for the code and technical debt they had written, which would be a pain to fix when it fails.
+This was a problem.
+
+But maybe not so much for Ash.
+
+Remember all those things Ash had quickly built?
+
+Well, turns out it was full of technical debt.
+
+And the cool new technology they integrated?
+
+It no longer works at their scale.
+
+So all this work they've handed over?
+
+Is more like a burden they've left behind to no longer be responsible for.
 -->
 
 ---
@@ -290,7 +304,7 @@ Having handed over their work, they would no longer be responsible for the code 
 # 🚶💣
 
 <!--
-They'll no longer be around to see where their choice of new technology is failing, how things are incorrectly used, or where they should have been improved.
+And Ash will never know. They'll no longer be around to see how their choice of new technology is failing, how things are incorrectly used, or the detriments of their decisions.
 -->
 
 ---
@@ -298,7 +312,7 @@ They'll no longer be around to see where their choice of new technology is faili
 # 🥳
 
 <!--
-And in their excitement to build out solutions to all the problems that they thought they saw,
+Because in their excitement to build out solutions to all the problems that they thought they saw,
 -->
 
 ---
@@ -306,7 +320,9 @@ And in their excitement to build out solutions to all the problems that they tho
 # 🛑
 
 <!--
-They never really stopped to fully understand the problem at hand, or to deeply investigate why things were the way they were, and maybe realise that the best solution didn't require new code at all.
+They never really stopped to fully understand the problem at hand,
+
+to deeply investigate why things were the way they were, and maybe realise that the best solution didn't require new code at all.
 -->
 
 ---
