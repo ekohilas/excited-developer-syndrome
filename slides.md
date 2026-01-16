@@ -1781,7 +1781,7 @@ Ash was asked to build a past uploads screen.
 
 ---
 
-# 🖼️
+<img fixed inset-0 src="/upload_ui.svg" />
 
 <!--
 A screen where users could see all their past uploads, so that they could easily find and embed a previously uploaded file, without having to re-upload it.
