@@ -667,38 +667,32 @@ and understanding the underlying intent of your words.
 
 ---
 
-# Type II
+# Type II Errors / False Negatives
 
 <!--
-In either case, be wary of Type 2 errors. 
+In either case, be wary of false negatives or Type 2 errors. 
 -->
 
 ---
 
-# 🐀
+<img fixed inset-0 src="/covid.svg" />
 
 <!--
-A Type 2 error is like a faulty COVID test that says you don't have COVID.
+A Type 2 error is like when an RAT test gives you a negative result. When actually you do have COVID. 
 
-Just because you got no results, doesn't mean it doesn't exist. 
+Similarly, the search might come up with nothing, but that might be because the search is wrong.
 -->
 
 ---
 
-# ❌🔮 
+<img fixed inset-0 src="/iceburg.svg" />
 
 <!--
-None of these tools are sources of truth.
+None of these tools can be sources of truth.
 
-Because putting aside whether they're well made
--->
+Because regardless of how good they are,
 
----
-
-# ❌🔮 
-
-<!--
-these tools can't find what hasn't been made public.
+they can't find what hasn't been made public.
 -->
 
 ---
@@ -745,7 +739,7 @@ Ash was likely a victim of Not Invented Here, a bias against ideas from the outs
 
 ---
 
-# 📜
+<img fixed inset-0 src="/nih_study.svg" />
 
 <!--
 And empirically you don't want this bias, because a 1982 study by Ralph Katz and Thomas J. Allen shows that it causes performance to decline.
