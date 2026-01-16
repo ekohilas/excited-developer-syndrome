@@ -56,6 +56,7 @@ Okay great then we're off to a good start!
 
 ---
 duration: 5min
+title: Introduction
 ---
 
 # Excited Developer Syndrome
@@ -426,88 +427,114 @@ Well, it's because of two phenomenon.
 
 ---
 
-# 1. Law of truly large numbers.
+# 1. Law of truly large numbers
 # 2. 
 
 <!--
-The first is the Law of truly large numbers.
+The first is the Law of truly large numbers
 -->
 
 ---
 
-# NOT law of large numbers
-
-<!--
-Not to be confused with the law of large numbers, which says that if I take the average of all of your guesses for how many jelly beans are in this jar, it'd converge to be correct. 
-
-# TODO: Add jellybean jar
--->
-
----
-
-# 1. Law of truly large numbers.
+# 1. Law of <span v-mark="{ type: 'crossed-off', color: 'red', seed: 1 }">truly</span> large numbers
 # 2. 
 
 <!--
-The law of *truly* large numbers effectively states that the chance for a 1 in a billion event to happen more than once across 8 billion people is 99.96%
-
-# TODO: add diagram
+Not to be confused with the law of large numbers
 -->
 
 ---
 
-# 1. Law of truly large numbers.
+<img fixed inset-0 src="/jelly_bean_jar.svg" />
+
+# 1. Law of <span v-mark="{ type: 'crossed-off', color: 'red', seed: 1 }">truly</span> large numbers
+# 2. 
+
+<!--
+which simply put, says that if I take the average of all of your guesses for how many jelly beans are in this jar, it'd converge to be correct. 
+
+# TODO: For the record, the answer is...
+-->
+
+---
+
+<img fixed inset-0 src="/lottery.svg" />
+
+# 1. Law of *truly* large numbers
+# 2. 
+
+<!--
+Now for the law of *truly* large numbers,
+
+The lottery is a good way of explaining.
+
+And so I don't lose you trying to explain maths.
+
+Could someone shout out what the odds are for winning the jackpot lottery.
+
+1 in a million
+
+But many people have won the lottery, so we want a rarer event.
+
+What about someone winning the lottery twice, that's like astronomically impossible, like 1 in a billion?
+
+But yet there are multiple people who've won the lottery twice, because there's 8 billion people and multiple lotteries happening every day.
+-->
+
+---
+
+# 1. Law of truly large numbers
 # 2. Simultaneous Invention
 
 <!--
 The second phenomenon is simultaneous invention.
+
+And forgive me in advance for the pronunciation of these names.
 -->
 
 ---
-# could cut 
----
-
-# ✋☎️
-
-<!--
-Raise your hand if you knew that the Telephone was also invented and had a patent submitted by Elisha Gray on the same day.
-
-Alexander Bell's only became known because his lawyers paid the fees immediately.
--->
-
----
+layout: image
+image: /emc2.svg
 # should keep for notability
 ---
-
-# ✋🧑‍🔬
 
 <!--
 Raise your hand if you knew that Henri Poincare also invented E=mc2, and that Einstein only provided the accepted interpretation.
 -->
 
 ---
-# should keep for relevance
+layout: image
+image: /thorium.svg
 ---
 
-# ✋🖥️
+<!--
+What about the fact that both Marie Curie and Gerhard Carl Schmidt both discovered Thorium radioactivity?
+-->
+
+
+---
+layout: image
+image: /machine.svg
+# should keep for relevance
+---
 
 <!--
 Or if you knew that the Turing Machine was also proposed in the same year independently by Emil Post
 -->
 
 ---
+layout: image
+image: /rsa.svg
 # should keep due to relevance to being hidden
 ---
 
-# 🤚👨‍💻
-
 <!--
-My favourite one, did anyone know that RSA was described 4 years earlier by Clifford Cocks, who couldn't say anything because he was working for UK's intelligence agency.
+My favourite one, did anyone know that RSA was described 4 years earlier by Clifford Cocks, who couldn't say anything because he was working for UK's intelligence agency?
 -->
 
 ---
 
-# 1. Law of truly large numbers.
+# 1. Law of truly large numbers
 # 2. Simultaneous Invention
 
 <!--
@@ -516,7 +543,7 @@ So we have this combination of phenomenon,
 
 ---
 
-# 1. Law of truly large numbers.
+# 1. Law of truly large numbers
 # [2. Simultaneous Invention]{style="opacity:50%"}
 
 <!--
@@ -525,7 +552,7 @@ where one says that a solution already exists,
 
 ---
 
-# [1. Law of truly large numbers.]{style="opacity:50%"}
+# [1. Law of truly large numbers]{style="opacity:50%"}
 # 2. Simultaneous Invention
 
 <!--
