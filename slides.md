@@ -85,7 +85,7 @@ a story
 
 ---
 layout: image
-image: /ash.svg
+image: /dev.svg
 ---
 
 <!--
@@ -95,71 +95,66 @@ are there any alex's here?
 
 oh no...
 
-Okay we'll start with the story
+Okay uh we'll start with the story
+
+of a developer named ash
+
+(If your name is Ash, I'm sorry, but the story must go on.)
 -->
 
 ---
 layout: image
-image: /ash.svg
----
-
-<!--
-of a developer named ash
-
-(If your name is Ash, I'm sorry, the story must go on.)
--->
-
+image: /dev_amazing.svg
 ---
 
 # ✨
 
 <!--
 Ash was an amazing programmer.
--->
 
----
-
-# 🏗️
-
-<!--
 Not only because they knew all their fundamentals.
 -->
 
 ---
-
-# 🧑‍🎓
+layout: image
+image: /dev_learn.svg
+---
 
 <!--
 But they were a quick learner, and loved learning new things! 
 -->
 
 ---
-
-# 🙄
+layout: image
+image: /dev_bored.svg
+---
 
 <!--
 And whenever they were bored with the status quo
 -->
 
 ---
-
-# 😎
+layout: image
+image: /dev_cool.svg
+---
 
 <!--
 they'd look up the latest trends and cool technologies.
 -->
 
 ---
-
-# 💪
+layout: image
+image: /dev_strong.svg
+---
 
 <!--
 The week Ash joined their new team, they were quickly able to finish their first ticket.
 -->
 
 ---
-
-# 🤔
+layout: image
+image: /dev_think.svg
+---
 
 <!--
 But Ash wasn't just a good learner.
@@ -170,8 +165,9 @@ By the end of their first month, they had questioned, and were able to identify 
 -->
 
 ---
-
-# 😠 
+layout: image
+image: /dev_angry.svg
+---
 
 <!--
 But Ash wasn't a complainer
@@ -180,96 +176,74 @@ They knew that solutions spoke louder than problems.
 -->
 
 ---
-
-# 🏗️
+layout: image
+image: /dev_fast.svg
+---
 
 <!--
 And Ash was *good* at building out solutions
--->
 
----
-
-# 💨
-
-<!--
 and doing so quickly.
 -->
 
 ---
-
-# ✋ 
+layout: image
+image: /hand.svg
+---
 
 <!--
 Now can I get a show of hands for who can relate to Ash?
 
 Okay about X of you.
--->
 
----
-
-# ✋ 
-
-<!--
 What about someone who knows of someone like Ash?
 
 Okay about Y of you.
 -->
 
 ---
-
-# 🥳 
+layout: image
+image: /dev_party.svg
+---
 
 <!--
 Ash was doing quite well. In fact, so well that it didn't make sense for them to stay where they were.
 
 Throughout their career,
--->
 
----
-
-# 🏅 
-
-<!--
 Ash would get promoted, for integrating that cool new technology,
 -->
 
 ---
-
-# 👥
+layout: image
+image: /dev_team.svg
+---
 
 <!--
 when they got curious for what else they could build, they'd change teams,
 -->
 
 ---
-
-# 🏢
+layout: image
+image: /dev_company.svg
+---
 
 <!--
 and when they got bored, they'd change companies to work on the next big thing.
 -->
 
 ---
-
-# 🦸
-
-<!--
-And to guide others down their path, they became a leader, and a manager. 
--->
-
+layout: image
+image: /dev_superhero.svg
 ---
 
-# 📣 
-
 <!--
-a manager.
--->
+And to guide others down their path,
 
----
+they became a leader,
 
-# 🚀 
+and a manager. 
 
-<!--
 All, which was great news for Ash!
 -->
 
