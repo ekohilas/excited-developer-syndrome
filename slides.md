@@ -73,8 +73,9 @@ And instead of giving you a boring definition
 -->
 
 ---
-
-# 📖
+layout: image
+image: /story.svg
+---
 
 <!--
 We'll start with an example
@@ -83,8 +84,9 @@ a story
 -->
 
 ---
-
-# 👨‍💻 Alex 
+layout: image
+image: /ash.svg
+---
 
 <!--
 of a developer named alex
@@ -97,11 +99,14 @@ Okay we'll start with the story
 -->
 
 ---
-
-# 👨‍💻 Ash
+layout: image
+image: /ash.svg
+---
 
 <!--
 of a developer named ash
+
+(If your name is Ash, I'm sorry, the story must go on.)
 -->
 
 ---
