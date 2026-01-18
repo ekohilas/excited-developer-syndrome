@@ -107,8 +107,6 @@ layout: image
 image: /dev_amazing.svg
 ---
 
-# ✨
-
 <!--
 Ash was an amazing programmer.
 
@@ -234,7 +232,7 @@ and when they got bored, they'd change companies to work on the next big thing.
 
 ---
 layout: image
-image: /dev_superhero.svg
+image: /dev_leader.svg
 ---
 
 <!--
@@ -249,73 +247,132 @@ All, which was great news for Ash!
 
 ---
 
-# ⏲️ 
-
 <!--
-And Ash will now have less time, and move further and further away from what they had built.
-
-# TODO: distant image for further away?
+But the world doesn't revolve around Ash.
 -->
 
 ---
-
-# 🚶💣
+layout: image
+image: /blake.svg
+---
 
 <!--
-This was a problem.
+This is Blake
 
-But maybe not so much for Ash.
-
-Remember all those things Ash had quickly built?
-
-Well, turns out it was full of technical debt.
-
-And the cool new technology they integrated?
-
-It no longer works at their scale.
-
-So all this work they've handed over?
-
-Is more like a burden they've left behind to no longer be responsible for.
+# TODO: say hi blake
 -->
 
 ---
-
-# 🚶💣
+layout: image
+image: /blake.svg
+---
 
 <!--
-And Ash will never know. They'll no longer be around to see how their choice of new technology is failing, how things are incorrectly used, or the detriments of their decisions.
+Blake is a member of Ash's old team, where Ash integrated that cool new technology.
+
+Blake was always sceptical that this cool new technology that Ash wanted to integrate was a good idea, but she couldn't quite put her finger on why.
+
 -->
 
 ---
+layout: image
+image: /blake_sad.svg
+---
 
-# 🥳
+<!--
+Months after Ash left, Blake now had to remove the integration.
+Not only was it not solving the core problem, but it was causing security issues, since it was no longer new, cool, and supported.
+
+-->
+
+---
+layout: image
+image: /chris.svg
+---
+
+<!--
+This is Chris
+
+Chris couldn't understand why Ash wanted to spend time building out a solution in house, when one already existed.
+
+But he didn't really care because it wasn't his problem.
+
+-->
+
+---
+layout: image
+image: /chris_sad.svg
+---
+
+<!--
+That is until Ash left, and now all the bugs were being reported to him. 
+
+He barely had the time to replace it with a pre-existing library, let alone fix all the bugs.
+-->
+
+---
+layout: image
+image: /daisy.svg
+---
+
+<!--
+And this is Daisy
+
+Her Job was to build out features for the product.
+-->
+
+---
+layout: image
+image: /daisy_sad.svg
+---
+
+<!--
+She wasn't happy with Ash's lack of tests for the over engineered solutions in the sake of building quickly.
+
+Now, she's burdened daily by the technical debt.
+-->
+
+---
+layout: image
+image: /dev_no_see.svg
+---
+
+<!--
+And Ash?
+
+Well now that Ash has moved on, they'll never see or be impacted by the detriments of their decisions.
+-->
+
+---
+layout: image
+image: /dev_excited.svg
+---
 
 <!--
 Because in their excitement to build out solutions to all the problems that they thought they saw,
 -->
 
 ---
-
-# 🛑
+layout: image
+image: /stop.svg
+---
 
 <!--
 They never really stopped to fully understand the problem at hand,
 
-to deeply investigate why things were the way they were, and maybe realise that the best solution didn't require new code at all.
--->
+to deeply investigate why things were the way they were,
 
----
+ask whether the problem needed solving
 
-# ❌🍀
+and maybe realise that the best solution didn't require new code at all.
 
-<!--
 And this is not uncommon.
 -->
 
 ---
-
-# ✋
+layout: image
+image: /hand.svg
+---
 
 <!--
 Can I get a show of hands, if you can still relate to Ash, or met someone like them?
