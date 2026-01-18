@@ -1094,91 +1094,69 @@ and thus, becomes a compounding investment in the project's success and sustaina
 -->
 
 ---
-
-# 🤷
+layout: image
+image: /pr_closed.svg
+---
 
 <!--
-But maybe a PR doesn't make sense.
+But maybe Ash did try making a PR.
+
+And it didn't make sense because the change was too different for the project.
+
+Or maybe the author didn't want to accept it.
 -->
 
 ---
-
-# 
+layout: image
+image: /fork.svg
+---
 
 <!--
-Maybe the change is too different for the project.
+What is before starting from scratch, Ash considered making their changes on a fork?
+
+Which wouldn't only save their time, but also anyone else who followed their path.
+
+Even if they don't want the work to be public, they'll still save themselves time, especially if the upstream project makes changes that you could merge and benefit from.
 -->
 
 ---
-
-# 🚫
-
-<!--
-Or maybe the author doesn't want to accept it.
--->
-
+layout: image
+image: /dev_angry.svg
 ---
 
-# 🍴
-
 <!--
-Then before starting from scratch, consider making your changes on a fork!
--->
+But if Ash is adamant that they must start from scratch, that's fine too.
 
----
-
-# ⏱️
-
-<!--
-This will not only be a time save for you, but also anyone else who follows your path.
--->
-
----
-
-# 🔄
-
-<!--
-Even if you don't want the work to be public, you'll still save yourself time, especially if the upstream project makes changes that you could merge and benefit from.
--->
-
----
-
-# ✅
-
-<!--
-But if you're adamant that you must start from scratch, that's fine too.
--->
-
----
-
-# 👌
-
-<!--
 And it's okay not to like something or not have the time.
 -->
 
 ---
-
-# 🐛
+layout: image
+image: /bug.svg
+---
 
 <!--
 Like, it's not always the case that fixing a bug will be easier than starting from scratch.
 -->
 
 ---
-
-# 💭
-
-<!--
-At the end of the day, there's nothing that can force you to make these choices. They have to come from within.
--->
-
+layout: image-right
+image: /thinking.svg
 ---
 
-# 📝
+# Creating another standard?
+
+1. Think
+2. Contribute
+3. Fork
+4. Communicate 
 
 <!--
-And if it does pain you to create another standard, I do encourage you to at least leave some feedback, or a trail, for others who search to find your path.
+At the end of the day, there's nothing that can force Ash to make these choices. They have to come from within.
+
+So if it does pain you to see another standard being created, I do encourage you to at least leave some feedback, or a trail, for others who search to find your path.
+
+# TODO: Fix
 -->
 
 ---
