@@ -1022,80 +1022,74 @@ So we must remind ourselves that whatever is built is likely half complete, and 
 -->
 
 ---
+layout: image
+image: /dev.svg
 duration: 2min
 ---
 
-# 🆓
-
 <!--
-# TODO: Use Ash instead of you?
+In one case, Ash was looking to build a website.
 
-But what if you've found something that's free and open source?
+And they found this free and open source framework called
 -->
 
 ---
-
-# 🎉
+layout: image
+image: /react_logo.svg
+---
 
 <!--
-That's great!
+React.
 -->
 
 ---
-
-# ⚠️
+layout: image
+image: /dev_angry.svg
+---
 
 <!--
-But there's a problem.
+But this wasn't the great news that I was expecting from Ash.
+
+Turns out, it didn't exactly do what they wanted it to do.
 -->
 
 ---
-
-# TODO: XKCD standard meme 
+layout: image
+image: /framework_logos.svg
+---
 
 <!--
-Maybe it's broken, or it's not quite what you're looking for.
-
-# TODO: Insert XKCD another standard meme
+And neither did the other 8 frameworks
 -->
 
 ---
-
-# 🤔
+layout: image
+image: /new_framework_logo.svg
+---
 
 <!--
-Before you go and make the XKCD standards meme more true, have you considered:
+So then there was 9...
 -->
 
 ---
-
-# 🔀
-
-<!--
-Contributing back to fix it?
--->
-
+layout: image
+image: /pr.svg
 ---
 
-# 🚀
-
 <!--
+What if Ash had considered contributing back to fix the framework?
+
 Submitting a PR will likely not only take less time than starting from scratch, but also make the solution more useful for everyone else!
 -->
 
 ---
-
-# 📈
+layout: image
+image: /star_history.svg
+---
 
 <!--
 Which in turn, makes the solution more popular,
--->
 
----
-
-# 💎
-
-<!--
 and thus, becomes a compounding investment in the project's success and sustainability.
 -->
 
