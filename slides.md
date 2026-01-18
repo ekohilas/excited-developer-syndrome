@@ -400,27 +400,20 @@ A developer, who is excited for building out quick solutions, before fully under
 -->
 
 ---
-
-# 👥
-
-<!--
-Now given that so many of you can relate to the "Excited Developer Syndrome", that is so prevalent within our industry,
--->
-
+layout: image
+image: /thinking.svg
 ---
 
-# 🤖
-
 <!--
-where building becomes easier by the day,
--->
+Now you all might be thinking,
 
----
+if you can relate to the "Excited Developer Syndrome",
 
-# 🛑
+that is so prevalent within our industry,
 
-<!--
-what can one do to prevent it, to stop it from affecting to us?
+especially in one which generative AI makes building easier by the day,
+
+what can one do to prevent it, to stop it from affecting us?
 
 # TODO: Give sources? Why people should listen?
 # TODO: Add clarity when it's the right mindset to have
@@ -593,112 +586,94 @@ where one says that a solution already exists,
 
 <!--
 and the other, that it's hidden or hard to find.
+
+I'm sure you've come across this in your life.
 -->
 
 ---
-
-# 🚶
+layout: image
+image: /thorium.svg
+---
 
 <!--
-And I'm sure you've come across this in your daily life.
+Remember that silhouette of Gerhard earlier?
 -->
 
 ---
-
-# 🔍 
+layout: image
+image: /empty_google_search.png
+---
 
 <!--
-Have you ever searched for something on Google, to surprisingly (and seemingly) get no results?
+That's because there's no images of him on Google.
 
-Every time I come across this, I definitely don't take absence as the answer.
+All these pictures are of someone else!
 
-# TODO: Show un-indexed project
+But if you do find him let me know.
+
+At the least, I'm sure there's a photo of the guy in someone's family picture book, waiting to be indexed by Googled.
 -->
 
 ---
-
-# 🐙
+layout: image
+image: /ci_test_google_search.png
+---
 
 <!--
-Many things, like software projects deep within GitHub aren't or can't be indexed.
-
-# TODO: Show google search example
+Similarly many things, like software projects on aren't or can't be indexed.
 -->
 
 ---
-
-# 🪡
+layout: image
+image: /google_search_seo_bloat.svg
+---
 
 <!--
-Or, they're a needle in the haystack of hundreds of fake pages exploiting the search engine optimization algorithm (or SEO).
+Or, they're a needle in the haystack of hundreds of company pages exploiting the search engine optimization algorithm (or SEO).
 -->
 
 ---
-
-# 💡
+layout: image
+image: /duck_duck_go_logo.svg
+---
 
 <!--
 So my advice here is to get creative.
--->
 
----
-
-# ❌
-
-<!--
 Don't just rely on Google.
--->
 
----
-
-# 🦆
-
-<!--
 Try other search engines.
 -->
 
 ---
-
-# 🦊 
+layout: image
+image: /gitlab_logo.svg
+---
 
 <!--
-Search GitHub, and other code repositories (and note that GitLab requires you to log in...)
+Search GitHub, and other code repositories (but note that GitLab requires you to log in...)
 -->
 
 ---
-
-# gitlab-ci-local
+layout: image
+image: /github_search.svg
+---
 
 <!--
 For example, I've found tools for GitLab to only exist on GitHub.
 -->
 
 ---
-
-# 🤖
+layout: image
+image: /llm_search.svg
+---
 
 <!--
 Or if there's still not results, try using an LLM's deep research,
 
-# TODO: Add image of deep research
--->
-
----
-
-# TODO: Image of SEO Bloat 
-
-<!--
 which is helpful in bypassing SEO bloat,
--->
 
----
-
-# 🧑‍🏫
-
-<!--
 and understanding the underlying intent of your words.
-
-# TODO: provide example
 -->
 
 ---
@@ -710,8 +685,9 @@ In either case, be wary of false negatives or Type 2 errors.
 -->
 
 ---
-
-<img fixed inset-0 src="/covid.svg" />
+layout: image
+image: /covid.svg
+---
 
 <!--
 A Type 2 error is like when an RAT test gives you a negative result. When actually you do have COVID. 
@@ -720,8 +696,9 @@ Similarly, the search might come up with nothing, but that might be because the 
 -->
 
 ---
-
-<img fixed inset-0 src="/iceburg.svg" />
+layout: image
+image: /iceburg.svg
+---
 
 <!--
 None of these tools can be sources of truth.
@@ -732,8 +709,9 @@ they can't find what hasn't been made public.
 -->
 
 ---
-
-# ✋ 
+layout: image
+image: /hand.svg
+---
 
 <!--
 For example, a show of hands from anyone whose made a tool at work that you couldn't share, or a personal tool that you didn't get around to sharing, or for which you weren't comfortable making public? 
