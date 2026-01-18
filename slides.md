@@ -720,27 +720,32 @@ That's about X of you, and if you consider that this is a conference about Open 
 -->
 
 ---
-
-# 🗣️ 
+layout: image
+image: /talking.svg
+---
 
 <!--
 And I bet that if we all talked to each other, there'd be at least one of you who was looking for a solution, and another who had already built it.
 -->
 
 ---
-
-# 🧑‍💻 Ash
+layout: image
+image: /dev.svg
+---
 
 <!--
 I'd also gamble that on multiple occasions, someone like Ash _did_ find a solution but decided not to use it.
 -->
 
 ---
-
-# ❓ 
+layout: image
+image: /but_why.gif
+---
 
 <!--
-Why?
+But Why?
+
+Why wouldn't you use a solution that already exists?
 -->
 
 ---
@@ -752,11 +757,12 @@ Ash was likely a victim of Not Invented Here, a bias against ideas from the outs
 -->
 
 ---
-
-<img fixed inset-0 src="/nih_study.svg" />
+layout: image
+image: /nih_study.svg
+---
 
 <!--
-And empirically you don't want this bias, because a 1982 study by Ralph Katz and Thomas J. Allen shows that it causes performance to decline.
+And empirically you don't want this bias, because a study shows that it causes performance to decline.
 -->
 
 ---
