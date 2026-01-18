@@ -697,7 +697,7 @@ Similarly, the search might come up with nothing, but that might be because the 
 
 ---
 layout: image
-image: /iceburg.svg
+image: /iceberg.svg
 ---
 
 <!--
