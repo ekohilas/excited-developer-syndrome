@@ -1,11 +1,9 @@
 ---
 theme: apple-basic
 #background: https://cover.sli.dev
-layout: intro
+layout: statement 
 title: Excited Developer Syndrome
 author: Evan Kohilas
-# apply UnoCSS classes to the current slide
-class: text-center
 # https://sli.dev/features/drawing
 drawings:
   persist: false
@@ -18,9 +16,21 @@ mdc: true
 
 # Excited Developer Syndrome
 
-Evan Kohilas
+## Evan Kohilas
 
-@ekohilas - `nohumanerrors.com`
+#### @ekohilas - nohumanerrors.com
+
+<style>
+h1 {
+  @apply mb-10;
+}
+h2 {
+  @apply text-2xl; 
+}
+h4 {
+  @apply font-mono mt text-2xl;
+}
+</style>
 
 <!--
 TODO: ...
@@ -29,16 +39,52 @@ Hello Everyone!
 -->
 
 ---
+layout: statement
+---
 
 # Excited Developer Syndrome
+
+## Evan Kohilas
+
+#### @ekohilas - nohumanerrors.com
+
+<style>
+h1 {
+  @apply mb-10;
+}
+h2 {
+  @apply text-2xl; 
+}
+h4 {
+  @apply font-mono mt text-2xl;
+}
+</style>
 
 <!--
 Are you...
 -->
 
 ---
+layout: statement
+---
 
 # Excited [Developer Syndrome]{style="opacity:50%"}
+
+## Evan Kohilas
+
+#### @ekohilas - nohumanerrors.com
+
+<style>
+h1 {
+  @apply mb-10;
+}
+h2 {
+  @apply text-2xl; 
+}
+h4 {
+  @apply font-mono mt text-2xl;
+}
+</style>
 
 <!--
 excited...
@@ -57,6 +103,7 @@ Okay great then we're off to a good start!
 ---
 duration: 5min
 title: Introduction
+layout: statement
 ---
 
 # Excited Developer Syndrome
@@ -65,8 +112,14 @@ title: Introduction
 So today I want to talk about a phenomenon I'm coining "Excited Developer Syndrome"
 -->
 ---
+layout: statement
+---
 
-# Def: ...
+# Excited Developer Syndrome
+
+***noun*** 
+
+_Definition:_ ...
 
 <!--
 And instead of giving you a boring definition
