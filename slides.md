@@ -1931,122 +1931,167 @@ Ash: Why do we need a thumbnail service?
 -->
 
 ---
+layout: quote
+---
 
-Requestor: To generate and serve thumbnails for past uploads.
+<img fixed inset-0 src="/why_boss.svg" />
+
+# To generate and serve thumbnails for past uploads.
 
 <!--
 Requestor: To generate and serve thumbnails for past uploads.
 -->
 
 ---
+layout: quote
+---
 
-# Why #3
+<img fixed inset-0 src="/why_dev.svg" />
 
-Ash: Why do we need thumbnails for past uploads, could we use the original images instead?
+# Why do we need thumbnails for past uploads, could we use the original images instead?
+
+<div class="absolute top-10 right-15">
+  <span class="font-700">
+    Why #3
+  </span>
+</div>
 
 <!--
 Ash: Why do we need thumbnails for past uploads, could we use the original images instead?
 -->
 
 ---
+layout: quote
+---
 
-Requestor: Well, if we did that, users would be making too many large requests.
+<img fixed inset-0 src="/why_boss.svg" />
+
+# Well, if we did that, users would be making too many large requests.
 
 <!--
 Requestor: Well, if we did that, users would be making too many large requests.
 -->
 
 ---
+layout: quote
+---
 
-# Why #4
+<img fixed inset-0 src="/why_dev.svg" />
 
-Ash: Why would users be making large requests?
+# Why would users be making large requests?
+
+<div class="absolute top-10 right-15">
+  <span class="font-700">
+    Why #4
+  </span>
+</div>
 
 <!--
 Ash: Why would users be making large requests?
 -->
 
 ---
+layout: quote
+---
 
-Requestor: Well, if they have a lot of past uploads. Especially if each one is megabytes in size!
+<img fixed inset-0 src="/why_boss.svg" />
+
+# Well, if they have a lot of past uploads. Especially if each one is megabytes in size!
 
 <!--
 Requestor: Well, if they have a lot of past uploads. Especially if each one is megabytes in size!
 -->
 
 ---
+layout: quote
+---
 
-# Why #5
+<img fixed inset-0 src="/why_dev.svg" />
 
-Ash: Why would users have a lot of past uploads? How many users have more than 2 past uploads?
+# Why would users have a lot of past uploads? How many users have more than 2 past uploads?
+
+<div class="absolute top-10 right-15">
+  <span class="font-700">
+    Why #5
+  </span>
+</div>
 
 <!--
 Ash: Why would users have a lot of past uploads? How many users have more than 2 past uploads?
 -->
 
 ---
+layout: quote
+---
 
-Requestor: Uh, let me check... Yeah right now, zero.
+<img fixed inset-0 src="/why_boss.svg" />
+
+# Uh, let me check...
 
 <!--
-Requestor: Uh, let me check... Yeah right now, zero.
+Requestor: Uh, let me check...
 -->
 
 ---
+layout: quote
+---
 
-# ✅
+<img fixed inset-0 src="/why_boss.svg" />
+
+# Uh, let me check... Yeah right now, zero.
+
+<!--
+Yeah right now, zero.
+-->
+
+---
+layout: image
+image: /why_end.svg
+---
 
 <!--
 With this questioning, Ash was able to avoid building out an entire feature which would have had no users.
 
-# TODO: Rephrase "if asked ...?"
--->
-
----
-
-# 🤝
-
-<!--
 If these questions are asked in a respectful manner, it can't hurt.
--->
 
----
-
-# 📊
-
-<!--
 In fact it'll help you to understand the value to the customer, so that you're closer to the problem at hand.
--->
 
----
-
-# 
-
-<!--
 And the request doesn't have to be entirely ignored either. Because in reality, it is a valid request!
 -->
 
 ---
+layout: quote
+---
 
-Ash: I do see your concern. What do you think about keeping a track of that metric, and re-evaluating it when it starts to affect more users? 
+<img fixed inset-0 src="/why_dev.svg" />
+
+# I do see your concern, and I don't want you to feel unheard... [What do you think about keeping a track of that metric, and re-evaluating it when it starts to affect more users?]{style="opacity: 0%"}
 
 <!--
-Ash: I do see your concern. What do you think about keeping a track of that metric, and re-evaluating it when it starts to affect more users? 
+I do see your concern, and I don't want you to feel unheard...
 -->
 
 ---
+layout: quote
+---
 
-# 📊
+<img fixed inset-0 src="/why_dev.svg" />
+
+# [I do see your concern, and I don't want you to feel unheard.]{style="opacity: 50%"} What do you think about keeping a track of that metric, and re-evaluating it when it starts to affect more users?
+
+<!--
+What do you think about keeping a track of that metric, and re-evaluating it when it starts to affect more users?
+-->
+
+---
+layout: statement
+---
+
+# Data Driven Design 
 
 <!--
 This is data driven design, and it is too often ignored.
--->
 
----
-
-# 😢
-
-<!--
 Which is a shame because we're an industry that can utilise it so quickly and effectively.
 -->
 
