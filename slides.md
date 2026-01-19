@@ -2154,248 +2154,192 @@ What if you do have to build something?
 -->
 
 ---
+layout: statement
+---
 
 # Focus on the minimum
 
 <!--
 Then, focus on the minimum.
--->
 
----
-
-# 🤏
-
-<!--
 Start small, and with a mindset that allows for easy change.
 -->
 
 ---
-
-# 😒
+layout: image
+image: /sheet_dev_only.svg
+---
 
 <!--
 A developer like Ash, would easily hate on boring implementations.
 -->
 
 ---
-
-# 📊
+layout: image
+image: /sheet_dev.svg
+---
 
 <!--
 They'd go crazy on the suggestion to use a spreadsheet as a database.
--->
 
----
-
-# 
-
-<!--
 They'd say:
--->
 
----
-
-# 📈
-
-<!--
 - "It won't scale!"
--->
-
----
-
-# 🧪
-
-<!--
-- "How would you test that?"
--->
-
----
-
-# ❌
-
-<!--
+- "That's not real engineering!"
 - "What about invalid data?"
--->
 
----
-
-# ✅
-
-<!--
 But in practice, it can work quite well!
 -->
 
 ---
-
-# 💼
+layout: image
+image: /levels_fyi.png
+---
 
 <!--
 Levels.fyi a career site that aggregates job salaries for tech professionals. 
 -->
 
 ---
+layout: fact
+---
 
-# 1-2 million
+# 2,500,000
+unique users a month
 
 <!--
-And it serves over 1 to 2 millions users a month.
+And it serves over 2.5 million users a month.
+
+But can you believe that when they started back in 2017, for their first few years, they had no backend,
+
+# TODO: Add image
 -->
 
+---
+layout: fact
 ---
 
 # 100,000
+salaries
 
 <!--
-But can you believe that when they started back in 2017, for their first few years, they had no backend, and stored over 100 thousand salaries in a google sheet?
+and stored over 100 thousand salaries in a google sheet?
+
+# TODO: Add image
 -->
 
 ---
-
-# ✅
+layout: image
+image: /drake.svg
+---
 
 <!--
 It makes perfect sense.
--->
 
----
-
-# 🤷
-
-<!--
 Because when they started, they didn't know or care if it'd grow to that size.
--->
 
----
-
-# 🎯
-
-<!--
 What they cared about, was:
 -->
 
 ---
-
-# 🚀
+layout: image
+image: /drake_speed.svg
+---
 
 <!--
 - the ability to launch quickly
 -->
 
 ---
-
-# 💰
+layout: image
+image: /drake_money.svg
+---
 
 <!--
 - saving money
 -->
 
 ---
-
-# ⏰
+layout: image
+image: /drake_time.svg
+---
 
 <!--
 - and saving time
--->
 
----
+which they could use to focus on the initial product.
 
-# 🎯
-
-<!--
-which they could use to focus on the product.
--->
-
----
-
-# 🤔
-
-<!--
 Because, how your data is stored makes no difference if no one wanted the product, if there was no data to store.
--->
 
----
-
-# 📝
-
-<!--
 And the quickest way for them to launch? 
+
+# TODO: own slide?
 -->
 
 ---
-
-# 📋
+layout: image
+image: /google_form.jpeg
+---
 
 <!--
 A google form.
--->
 
----
-
-# 🔄
-
-<!--
 By starting simple, and validating their idea, they were then able to iterate as they needed based on user data and feedback.
 -->
 
 ---
-
-# ⚠️
+layout: image
+image: /duct_tape.svg
+---
 
 <!--
 Now I don't want you to walk away from this thinking that everything should be hacked together.
 -->
 
 ---
-
-# 🎨
+layout: image
+image: /design_diagram.svg
+---
 
 <!--
 This wouldn't be possible without good design.
 -->
 
 ---
-
-# 📐
+layout: image
+image: /design_diagram_schema.svg
+---
 
 <!--
 The schema of your data doesn't live in the database.
 -->
 
 ---
-
-# 🔌
+layout: image
+image: /design_diagram_interface.svg
+---
 
 <!--
 It lives in the interface between the database.
--->
 
----
-
-# 💭
-
-<!--
 Because if your product's architecture has been thoughtfully designed around data. 
--->
 
----
-
-# 📋
-
-<!--
 Such as interfaces that are well specified.
 -->
 
 ---
-
-# 📊
+layout: image
+image: /design_diagram_metrics.svg
+---
 
 <!--
 And metrics to signal actions.
 -->
 
 ---
-
-# 😊
+layout: image
+image: /design_diagram_database.svg
+---
 
 <!--
 Then migrating between components when the time calls, can be a short, well trodden path.
