@@ -1470,252 +1470,184 @@ maybe more developers doesn't address the core problem ...
 
 
 ---
+layout: statement
+---
 
 # Nothing >>> Something
 
 <!--
-# TODO: Title
-
 Nothing, is infinitely better than something.
+
+# TODO: Title
 -->
 
 ---
-
-# 📡
+layout: image
+image: /hf.svg
+---
 
 <!--
 A real scenario that a developer came across (and almost became an Ash) was when they were working on a country wide High Frequency network.
 -->
 
 ---
-
-# 📡🔄
+layout: image
+image: /hf_communicate.svg
+---
 
 <!--
 The network was built to communicate between a source and destination.
 -->
 
 ---
-
-# 📶
+layout: image
+image: /hf_interference.svg
+---
 
 <!--
 And it had to ensure that it was doing so with the best signal.
--->
 
----
-
-# 📻
-
-<!--
 Because when you're sending over a High Frequency, there can be a lot of noise and interference.
 -->
 
 ---
-
-# 🔮
+layout: image
+image: /hf_thinking.svg
+---
 
 <!--
 So the network had been built so that on every transmission, it would predict what configuration would produce the best signal.
+
+It would predict this configuration by running calculations on things like the state of the ionosphere, and the
+
+type, location, and orientation of the source and destination antennas.
 -->
 
 ---
-
-# 🌍
-
-<!--
-It would predict this configuration by running calculations on things like the state of the ionosphere,
--->
-
+layout: image
+image: /hf_send.svg
 ---
-
-# 📡
-
-<!--
-the type, location, and orientation of the source and destination antennas.
--->
-
----
-
-# 📊
 
 <!--
 And after making this prediction and transmission, it could compare the signal quality against the prediction. 
+
+# TODO: Add image to visualise comparison?
 -->
 
 ---
-
-# ✅
+layout: image
+image: /hf_happy.svg
+---
 
 <!--
 Now this network was fully functional and battle tested.
 -->
 
 ---
-
-# 💡
+layout: image
+image: /hf_save.svg
+---
 
 <!--
 But this developer was given a feature request.
--->
 
----
-
-# 🔍
-
-<!--
 Given they know what state produces a good signal quality.
+
+It should be cached, so they don't have to run these expensive and possibly inaccurate calculations. 
 -->
 
 ---
-
-# 💾
-
-<!--
-It should be cached, so they don't have to run these expensive calculations. 
--->
-
+layout: image-right 
+image: /dev_think.svg
 ---
 
-# 
+<h1 v-click>
+Cache Requirements
+</h1>
+
+<ul>
+<li v-click>Transmission frequency</li>
+<li v-click>Source transmitter power</li>
+<li v-click>Source antenna type</li>
+<li v-click>Source antenna orientation</li>
+<li v-click>Source antenna location</li>
+<li v-click>Destination transmitter power</li>
+<li v-click>Destination antenna type</li>
+<li v-click>Destination antenna orientation</li>
+<li v-click>Destination antenna location</li>
+<li v-click="13">Time of day</li>
+<li v-click="14">Time of year</li>
+<li v-click="15">Location in 11 year solar cycle</li>
+</ul>
+
+<img v-click="[11, '+1']" fixed inset-0 src="/australia_space.svg" />
 
 <!--
-Now a cache is not exactly a difficult implementation.
--->
+Now a saving a state for use is not exactly a difficult implementation.
 
----
-
-# 🤔
-
-<!--
 But this developer, having built out, and having a deep understanding of the system, decided to think about it.
--->
 
----
+[click]
 
-# 📝
-
-<!--
 And they realised that the cache would need:
+
+- [click] The transmission frequency
+- [click] The source transmitter power, [click] antenna type, [click] orientation, [click] and location of the source antenna.
+- [click] The destination transmitter power, [click] antenna type, [click] orientation, [click] and location of the destination antenna.
+
+[click]
+(Side note, some countries are quite big)
+
+But that might not matter, if you're also calculating the state of the ionosphere which needs:
+[click]
+
+- [click] The time of day,
+- [click] The time of year,
+- [click] And where you are in the the 11 year solar cycle?
+
 -->
 
 ---
-
-# 📻
-
-<!--
-The transmission frequency
--->
-
+layout: statement
 ---
 
-# 📡
-
-<!--
-The transmitter power, antenna type, orientation, and location of the source antenna.
--->
-
----
-
-# 📡
-
-<!--
-The transmitter power, antenna type, orientation, and location of the destination antenna.
--->
-
----
-
-# 🌍
-
-<!--
-(Side note, countries are quite big)
--->
-
----
-
-# ❓
-
-<!--
-But did that matter, if calculating the state of the ionosphere needed:
--->
-
----
-
-# 🕐
-
-<!--
-The time of day,
--->
-
----
-
-# 📅
-
-<!--
-The time of year,
--->
-
----
-
-# ☀️
-
-<!--
-And where you are in the the 11 year solar cycle?
--->
-
----
-
-# ⏰
+# Once every 11 years 
 
 <!--
 Effectively making the cache only useable once every 11 years
 -->
 
 ---
+layout: statement
+---
 
-# 🤷
+# Once every ?? years
 
 <!--
 If at all, considering how many things change in a decade.
 -->
 
 ---
-
-# ❌
+layout: image
+image: /shrugging.svg
+---
 
 <!--
 I don't blame whoever had suggested the feature.
--->
 
----
-
-# 🧠 
-
-<!--
 On the surface it was a perfectly reasonable idea
--->
 
----
-
-# 💡
-
-<!--
 And it's in our human nature to want to improve things.
 -->
 
 ---
-
-# 🎯
+layout: image
+image: /thinking.svg
+---
 
 <!--
 To me, it shows the importance of having a good understanding of the system.
--->
 
----
-
-# 🧠
-
-<!--
 The ability to apply critical thinking, before excitedly rushing to a what would have been an easy implementation that would have no effect. 
 -->
 
