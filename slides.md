@@ -1244,7 +1244,7 @@ image: /forest.svg
 ---
 
 <!--
-She gives the example of the late 1900's Canadian lumber industry which would harvest Spruce and Fir trees.
+She gives an example of the late 1900's Canadian lumber industry which would harvest Spruce and Fir trees.
 -->
 
 ---
@@ -1341,53 +1341,131 @@ The only way forward was to continue the negative spiral of spraying more.
 -->
 
 ---
-
-# 💻
+layout: image
+image: /budworm_analogy_axe.svg
+---
 
 <!--
-If we extrapolate this example into the world of software, it'd be like 
+If we extrapolate this situation into the world of software, it'd be like if the lumber industry,
 -->
 
 ---
-
-# 📝
+layout: image
+image: /budworm_analogy_axe_office.svg
+---
 
 <!--
-when we waste time in every review on nits.
+was a tech company
 -->
 
 ---
-
-# 🤔
+layout: image
+image: /budworm_analogy_budworm.svg
+---
 
 <!--
-If we stop to analyse the system, we could realise that, they could be accepted as being inevitable. 
+and the budworms
 -->
 
 ---
-
-# 
+layout: image
+image: /budworm_analogy_budworm_bug.svg
+---
 
 <!--
-Maybe that's not an answer, because like Budworms, too many nits can affect the final product.
+were software bugs ruining the product
 -->
 
 ---
-
-# 🛠️
+layout: image
+image: /budworm_analogy_spraying.svg
+---
 
 <!--
-And instead it's worth taking a different approach, like changing the tree harvesting strategy, or like adding lint rules to stop nits from getting to a review in the first place.
-
-# TODO: Are the other examples better?
-
-wasting time in every review on nits, instead of adding lint rules to stop them from getting to the review in the first place.
-
-continuously trying to fix a flakey test that keeps popping up, instead of thinking about whether the test is needed in the first place.
-
-continuously trying to fix flakey tests, instead of building around the fact that they're inevitable 
-expect that flakey tests will happen, and write tools to track them?
+and the spraying
 -->
+
+---
+layout: image
+image: /budworm_analogy_spraying_dev.svg
+---
+
+<!--
+was like hiring more developers.
+-->
+
+---
+layout: image
+image: /budworm_analogy_bug.svg
+---
+
+<!--
+The bugs, 
+-->
+
+---
+layout: image
+image: /budworm_analogy_bug_dev_1.svg
+---
+
+<!--
+would be squashed by the developers,
+-->
+
+---
+layout: image
+image: /budworm_analogy_bug_dev_2.svg
+---
+
+<!--
+who would also make more bugs
+-->
+
+---
+layout: image
+image: /budworm_analogy_bug_dev_3.svg
+---
+
+<!--
+and which needed more developers to squash and sustain output 
+-->
+
+---
+layout: image
+image: /budworm_analogy_bug_dev_4.svg
+---
+
+<!--
+which in turn would create more bugs
+-->
+
+---
+layout: image
+image: /budworm_analogy_bug_dev_5.svg
+---
+
+<!--
+and then more developers
+-->
+
+---
+layout: image
+image: /budworm_analogy_bug_dev_6.svg
+---
+
+<!--
+and more bugs
+-->
+
+---
+layout: image
+image: /budworm_analogy_bug_dev_7.svg
+---
+
+<!--
+maybe more developers doesn't address the core problem ...
+-->
+
 
 ---
 
