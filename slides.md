@@ -2476,19 +2476,50 @@ The more code that is introduced, and the more changes that are made, the more t
 
 # Summary
 
-- Bias for searching, using, and contributing to existing solutions
-- Pursue for a deep understanding of the system
-- Have an undying focus for the minimum
+<v-clicks>
+
+- Search, use, and contribute 
+- Think about the system 
+- Focus on the minimum 
+</v-clicks>
+
+<style>
+h1 {
+  @apply text-6xl mt-10;
+}
+li {
+  @apply text-2xl mt-10;
+}
+</style>
 
 <!--
-# TODO: reduce the above points
-
-So in summary:
-
-For references and where to learn more, see
-
-Any questions?
+- [click] Bias for searching, using, and contributing to existing solutions
+- [click] Pursue for a deep understanding of the system
+- [click] Have an undying focus for the minimum
 -->
+
+---
+layout: image 
+image: /outro.svg 
+---
+
+<!--
+If you're after the resources for this talk, you can find them in these links.
+
+Or if you're after me and any updates, you can subscribe to my mailing list on nohumanerrors.com, find me online at ekohilas, or here if you have any questions or feedback!
+-->
+
+---
+layout: image 
+image: /outro_thanks.svg 
+---
+
+<!--
+Special thanks to David Andersen for his inspiration,
+
+As well as to my friends, family, the open source community, and to you for listening!
+-->
+
 
 ---
 
