@@ -1338,6 +1338,8 @@ But in other forests?
 It was a lost cause.
 
 The only way forward was to continue the negative spiral of spraying more.
+
+Source: https://www.jstor.org/stable/45030834
 -->
 
 ---
