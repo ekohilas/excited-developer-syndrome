@@ -119,7 +119,7 @@ layout: statement
 
 ***noun*** 
 
-_Definition:_ ...
+## _Definition:_ ...
 
 <!--
 And instead of giving you a boring definition
@@ -434,6 +434,8 @@ That's still quite a lot of you...
 -->
 
 ---
+layout: statement
+---
 
 # Excited Developer Syndrome
 
@@ -442,9 +444,12 @@ This is the "Excited Developer Syndrome"
 -->
 
 ---
+layout: statement
+---
 
 # Excited Developer Syndrome 
-## Def: A developer, who is excited for building out quick solutions, before fully understanding the problem at hand, and thus often become unmaintainable out of not retaining responsibility. 
+***noun***
+## _Defnition:_ A developer, who is excited for building out quick solutions, before fully understanding the problem at hand, and thus often become unmaintainable out of not retaining responsibility. 
 
 <!--
 # TODO: Refine definition?
@@ -474,14 +479,16 @@ what can one do to prevent it, to stop it from affecting us?
 
 ---
 duration: 9.5min
+layout: image
+image: /thinking.svg
 ---
-
-# 🤔
 
 <!--
 The first thing would be to think about existing solutions.
 -->
 
+---
+layout: statement
 ---
 
 # Your proposal is not unique.
@@ -491,59 +498,87 @@ Your proposal (to an existing problem) is not unique.
 -->
 
 ---
+layout: fact
+---
 
-# 🧠
+# > 8,000,000,000
+people on earth
 
 <!--
 But how can I make this claim when there's over 8 billion minds on this earth?
 -->
 
 ---
+layout: section 
+---
 
-# 1.
-# 2.
+#### 1.
+#### 2.
+
+<style>
+h4 {
+  @apply text-4xl mb-4 font-700 -ml-[0.05em];
+}
+</style>
 
 <!--
 Well, it's because of two phenomenon.
 -->
 
 ---
+layout: section 
+---
 
-# 1. Law of truly large numbers
-# 2. 
+#### 1. Law of truly large numbers
+#### 2. 
+
+<style>
+h4 {
+  @apply text-4xl mb-4 font-700 -ml-[0.05em];
+}
+</style>
 
 <!--
 The first is the Law of truly large numbers
 -->
 
 ---
+layout: section 
+---
 
-# 1. Law of <span v-mark="{ type: 'crossed-off', color: 'red', seed: 1 }">truly</span> large numbers
-# 2. 
+#### 1. Law of <span v-mark="{ type: 'crossed-off', color: 'red', seed: 1, at: '+0' }">truly</span> large numbers
+#### 2. 
+
+<img v-click="1" fixed inset-0 src="/jelly_bean_jar.svg" />
+
+<style>
+h4 {
+  @apply text-4xl mb-4 font-700 -ml-[0.05em];
+}
+</style>
 
 <!--
 Not to be confused with the law of large numbers
--->
 
----
-
-<img fixed inset-0 src="/jelly_bean_jar.svg" />
-
-# 1. Law of <span v-mark="{ type: 'crossed-off', color: 'red', seed: 1 }">truly</span> large numbers
-# 2. 
-
-<!--
-which simply put, says that if I take the average of all of your guesses for how many jelly beans are in this jar, it'd converge to be correct. 
+[click] which simply put, says that if I take the average of all of your guesses for how many jelly beans are in this jar, it'd converge to be correct. 
 
 # TODO: For the record, the answer is...
 -->
 
 ---
+layout: section 
+---
 
 <img fixed inset-0 src="/lottery.svg" />
 
-# 1. Law of *truly* large numbers
-# 2. 
+#### 1. Law of *truly* large numbers
+#### 2. 
+
+<style>
+h4 {
+  @apply text-4xl mb-4 font-700 -ml-[0.05em];
+}
+</style>
 
 <!--
 Now for the law of *truly* large numbers,
@@ -558,15 +593,25 @@ Could someone shout out what the odds are for winning the jackpot lottery.
 
 But many people have won the lottery, so we want a rarer event.
 
-What about someone winning the lottery twice, that's like astronomically impossible, like 1 in a billion?
+What about someone winning the lottery twice, that'd be like, 1 in a trillion?
+
+That's astronomically impossible! 
 
 But yet there are multiple people who've won the lottery twice, because there's 8 billion people and multiple lotteries happening every day.
 -->
 
 ---
+layout: section 
+---
 
-# 1. Law of truly large numbers
-# 2. Simultaneous Invention
+#### 1. Law of truly large numbers
+#### 2. Simultaneous Invention
+
+<style>
+h4 {
+  @apply text-4xl mb-4 font-700 -ml-[0.05em];
+}
+</style>
 
 <!--
 The second phenomenon is simultaneous invention.
@@ -615,27 +660,51 @@ My favourite one, did anyone know that RSA was described 4 years earlier by Clif
 -->
 
 ---
+layout: section 
+---
 
-# 1. Law of truly large numbers
-# 2. Simultaneous Invention
+#### 1. Law of truly large numbers
+#### 2. Simultaneous Invention
+
+<style>
+h4 {
+  @apply text-4xl mb-4 font-700 -ml-[0.05em];
+}
+</style>
 
 <!--
 So we have this combination of phenomenon,
 -->
 
 ---
+layout: section 
+---
 
-# 1. Law of truly large numbers
-# [2. Simultaneous Invention]{style="opacity:50%"}
+#### 1. Law of truly large numbers
+#### [2. Simultaneous Invention]{style="opacity:50%"}
+
+<style>
+h4 {
+  @apply text-4xl mb-4 font-700 -ml-[0.05em];
+}
+</style>
 
 <!--
 where one says that a solution already exists,
 -->
 
 ---
+layout: section 
+---
 
-# [1. Law of truly large numbers]{style="opacity:50%"}
-# 2. Simultaneous Invention
+#### [1. Law of truly large numbers]{style="opacity:50%"}
+#### 2. Simultaneous Invention
+
+<style>
+h4 {
+  @apply text-4xl mb-4 font-700 -ml-[0.05em];
+}
+</style>
 
 <!--
 and the other, that it's hidden or hard to find.
@@ -729,6 +798,8 @@ which is helpful in bypassing SEO bloat,
 and understanding the underlying intent of your words.
 -->
 
+---
+layout: statement 
 ---
 
 # Type II Errors / False Negatives
