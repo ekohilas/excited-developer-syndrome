@@ -1837,24 +1837,21 @@ Question the why, to help you understand the underlying problem.
 -->
 
 ---
+layout: statement 
+---
 
-# 5️⃣❓
+# 5 Whys
 
 <!--
 Use the 5 whys technique to drill in.
--->
 
----
-
-# 🎯
-
-<!--
 We'll keep asking why to figure out what we're really trying to solve.
 -->
 
 ---
-
-# 🧑‍💻
+layout: image
+image: /dev.svg
+---
 
 <!--
 And we'll bring Ash back, to put this into perspective.
@@ -1863,54 +1860,71 @@ And we'll bring Ash back, to put this into perspective.
 -->
 
 ---
-
-# 📋
+layout: image
+image: /upload_ui.svg
+---
 
 <!--
 Ash was asked to build a past uploads screen.
--->
 
----
-
-<img fixed inset-0 src="/upload_ui.svg" />
-
-<!--
 A screen where users could see all their past uploads, so that they could easily find and embed a previously uploaded file, without having to re-upload it.
-
-# TODO: Better name for the requestor
 -->
 
 ---
+layout: quote
+---
 
-Requestor: We need to build a past uploads screen!
+<img fixed inset-0 src="/why_boss.svg" />
+
+# We need to build a past uploads screen!
 
 <!--
-Requestor: We need to build a past uploads screen!
+So the boss says, we need to build a past uploads screen!
 -->
 
 ---
+layout: quote
+---
 
-# Why #1
+<img fixed inset-0 src="/why_dev.svg" />
 
-Ash: Why do we need to build a past uploads screen?
+# Why do we need to build a past uploads screen?
+
+<div class="absolute top-10 right-15">
+  <span class="font-700">
+    Why #1     
+  </span>
+</div>
 
 <!--
-Ash: Why do we need to build a past uploads screen?
+And Ash replies, why do we need to build a past uploads screen?
 -->
 
 ---
+layout: quote
+---
 
+<img fixed inset-0 src="/why_boss.svg" />
+
+# So users can quickly upload previous files served from a thumbnail service.
+
+<!--
 Requestor: So users can quickly upload previous files served from a thumbnail service.
-
-<!--
-Requestor: So users can quickly upload previous files served from a thumbnail service.
 -->
 
 ---
+layout: quote
+---
 
-# Why #2
+<img fixed inset-0 src="/why_dev.svg" />
 
-Ash: Why do we need a thumbnail service?
+# Why do we need a thumbnail service?
+
+<div class="absolute top-10 right-15">
+  <span class="font-700">
+    Why #2
+  </span>
+</div>
 
 <!--
 Ash: Why do we need a thumbnail service?
