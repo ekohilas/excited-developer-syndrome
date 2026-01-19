@@ -1774,8 +1774,12 @@ And I think that love this meme because you can apply it to anything.
 -->
 
 ---
+layout: quote
+---
 
-> "[Instead of thinking] How can I make this engineering process faster, maybe look at how you can get rid of whatever it is completely"
+# "\[Instead of thinking\] how can I make this engineering process faster, maybe look at how you can get rid of whatever it is completely"
+
+Sam Thorogood
 
 <!--
 Similarly, one of my favourite quotes: 
