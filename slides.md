@@ -1230,91 +1230,114 @@ If we pause for a moment, breathe, look around us, and remove the blinders of ex
 -->
 
 ---
-
-# 📚
+layout: image
+image: /thinking_in_systems.svg
+---
 
 <!--
 This is one of the core principles that Donella Meadows highlights in her book "Thinking in Systems"
 -->
 
 ---
-
-# 🌲
+layout: image
+image: /forest.svg
+---
 
 <!--
 She gives the example of the late 1900's Canadian lumber industry which would harvest Spruce and Fir trees.
 -->
 
 ---
-
-# 🐛
+layout: image
+image: /budworm.svg
+---
 
 <!--
 However, they had a problem, the Budworm pest, which would kill these trees.
 -->
 
 ---
-
-# 💉
+layout: image
+image: /budworm_sad.svg
+---
 
 <!--
 So over 30 years, they sprayed pesticides.
 -->
 
 ---
-
-# 📈💰
+layout: image
+image: /money_graph.svg
+---
 
 <!--
 Each year became more and more expensive, and by 1980, they had spent an unmanageable 12.5 million in that year alone.
--->
 
----
-
-# ❓
-
-<!--
 Why was this considered unmanageable?
+
+# TODO: Highlight number?
 -->
 
 ---
-
-# 🌲💀
+layout: image
+image: /budworm_happy.svg
+---
 
 <!--
 Well after 30 years of spraying, the Budworm was still killing as many as 20 million hectares of trees per year.
 -->
 
 ---
-
-# 🔬
+layout: image
+image: /researchers.svg
+---
 
 <!--
 It wasn't until two Ecology and Forestry researchers built a computer model to get a whole system look, that they discovered that the Budworm wasn't a pest.
 -->
 
 ---
-
-# 🔄
+layout: image
+image: /monoculture_forest.svg
+---
 
 <!--
 The Budworm was an important element of the ecosystem. 
--->
 
----
-
-# 🌲
-
-<!--
 Without the Budworm, these forests would become a monoculture of Fir, which was the Budworm's favourite food.
 -->
 
 ---
-
-# 🦟
+layout: image
+image: /budworm_happy.svg
+---
 
 <!--
-And these pesticides, would not only increase the Budworm's food supply, but also it's predators, which where there to keep it in check from exploding in an uncontrollable manner.
+So these pesticides which were meant to control the budworm population, did so, but only temporarily, before they exploded uncontrollably.
+
+Because in addition to giving the budworms more food, the pesticides were also killing the budworm's predators.
+-->
+
+---
+layout: image
+image: /budworm_love.svg
+---
+
+<!--
+Soon after, they realised that in some forests, they could replace spraying with proper forest management, and co-exist with the budworms.
+-->
+
+---
+layout: image
+image: /budworm_sad.svg
+---
+
+<!--
+But in other forests?
+
+It was a lost cause.
+
+The only way forward was to continue the negative spiral of spraying more.
 -->
 
 ---
