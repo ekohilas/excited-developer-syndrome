@@ -7,6 +7,8 @@ author: Evan Kohilas
 # https://sli.dev/features/drawing
 drawings:
   persist: false
+# force light by default
+colorSchema: light
 duration: 40min
 # TODO: figure out why this needs to be 1920/2 to set the width to 1920
 canvasWidth: 960
