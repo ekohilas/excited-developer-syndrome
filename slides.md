@@ -2347,188 +2347,163 @@ Then migrating between components when the time calls, can be a short, well trod
 ---
 # TODO: Is the below needed? Maybe start with this example and then reveal levels.fyi?
 # TODO: Can a real example or story be used for the counterfactual?
+layout: image
+image: /dev.svg
 ---
-
-# 🚫
 
 <!--
 The counterfactual, of the problems that a developer like Ash would have come across?
 -->
 
 ---
-
-# 🏗️
+layout: image
+image: /fyi_build.svg
+---
 
 <!--
 - Well first, they would have had to spend time, building, and maintaining a backend to process the data, and a database to store it.
 -->
 
 ---
-
-# 💰
+layout: image
+image: /fyi_money.svg
+---
 
 <!--
 - Then, they would have had to pay for hosting these servers (or the costs of time and downtime if they had hosted it themselves)
 -->
 
 ---
-
-# 🔄
+layout: image
+image: /fyi_migration.svg
+---
 
 <!--
 - There's also the cost of running migrations, every inevitable time there's a schema change.
 -->
 
 ---
-
-# 😖
+layout: image
+image: /fyi_overhead.svg
+---
 
 <!--
 - And, the overhead of viewing and understanding the data, especially for non developers.
 -->
 
 ---
-
-# 🗑️
+layout: image
+image: /fyi_bin.svg
+---
 
 <!--
 Which, would have all gone to waste if the idea didn't work.
 -->
 
 ---
-
-# 📝
+layout: image
+image: /boring_is_good.svg
+---
 
 <!--
 So remember.
--->
 
----
-
-# 😴
-
-<!--
 Boring is good.
--->
 
----
-
-# ✅
-
-<!--
 It's simple, well tested, well known, and well defined.
--->
 
----
-
-# 🚀
-
-<!--
 Don't excitedly run past the wonders of simplicity, with only premature optimisation in mind.
 -->
 
 ---
+layout: statement
+---
 
-# 🎯
+# Focus on the minimum
 
 <!--
 But focusing on the minimum is not only for when you're thinking about the initial build. 
 -->
 
 ---
-
-# 💭
+layout: image
+image: /diff_big.svg
+---
 
 <!--
-It should be on your mind even after you've built it.
+Have you ever seen a massive PR, with multiple features, thousands of lines, and wondered:
+
+"What would I do if that caused production to go down?"
 -->
 
 ---
-
-# 🤖
+layout: image
+image: /daily_struggle.svg
+---
 
 <!--
-When computers start to act up and seemingly do random things,
+You don't want to be in a situation where,
 -->
 
 ---
-
-# 📋
+layout: image
+image: /daily_struggle_backward.svg
+---
 
 <!--
-it's easy to forget that they're actually doing exactly what they're told.
+you don't want to lose a bunch of work by rolling backwards,
 -->
 
 ---
-
-# 🔄
+layout: image
+image: /daily_struggle_forward.svg
+---
 
 <!--
-And that problems will only arise, when things change.
+Or where there's too much to rake through to find the one issue that caused a problem.
+
+Hopefully you roll back to fix fast, and then go back to focusing on minimal changes.
+
+And I get it, I myself have forgotten how quickly a bunch of easy to make a unrelated changes can pile up.
+
 -->
 
 ---
-
-# 🎯
+layout: image
+image: /diff_small.svg
+---
 
 <!--
-So focus on changing the minimum.
+Even the smallest of unassuming changes, like a minor version bump has caused production to fail. 
 -->
 
 ---
-
-# 💥
+layout: image
+image: /jenga.svg
+---
 
 <!--
-Has production ever gone down,
+When we play Jenga, we don't go moving 10 blocks at once.
+
+We make the smallest, safest change at a time. 
+
+Because the tower isn't going to fall unless something changes.
+
+Just like a computer, that's not going to alter it's behaviour unless you change it.
+
+(Even if we want to believe they're sometimes demonic.)
 -->
 
 ---
-
-# ⏪
-
-<!--
-and after you've rolled back to a known working commit (hopefully, rather than rolling forward)
--->
-
+layout: statement
 ---
 
-# 🔍
+# Focus on the minimum
 
 <!--
-You've not only turned off a bunch of unrelated features, but now have to rake through thousands of lines of code, to find the one issue?
--->
+So even after you've built it, focus on the minimum.
 
----
-
-# 📝
-
-<!--
-Or while changing some code, have you come across a nit, that seems ever so small, and seemingly unoffending, only to later find out that it broke prod?
--->
-
----
-
-# 🙋
-
-<!--
-I know I have.
--->
-
----
-
-# 📖
-
-<!--
-And I've learnt the lesson that,
--->
-
----
-
-# 📈
-
-<!--
-The more code that is introduced, and the more changes that are made, the more time we have to spend on maintaining, or navigating when we add new code.
+Because the more code that is introduced, and the more changes that are made, the more it costs to maintain, and update. 
 -->
 
 ---
@@ -2552,6 +2527,8 @@ li {
 </style>
 
 <!--
+And to stick to my word of focusing on the minimum, I'll wrap it up with a summary here.
+
 - [click] Bias for searching, using, and contributing to existing solutions
 - [click] Pursue for a deep understanding of the system
 - [click] Have an undying focus for the minimum
