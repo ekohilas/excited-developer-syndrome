@@ -1788,63 +1788,48 @@ And I think that love this meme because you can apply it to anything.
 layout: quote
 ---
 
-# "\[Instead of thinking\] how can I make this engineering process faster, maybe look at how you can get rid of whatever it is completely"
+# "\[Instead of thinking\] how can I make this engineering process faster, [maybe look at how you can get rid of whatever it is completely"]{style="opacity: 0%"}
 
 Sam Thorogood
 
 <!--
 Similarly, one of my favourite quotes: 
 
-"[Instead of thinking] How can I make this engineering process faster, maybe look at how you can get rid of whatever it is completely"
+"[Instead of thinking] How can I make this engineering process faster, 
+-->
+
+---
+layout: quote
+---
+
+# "\[Instead of thinking\] how can I make this engineering process faster, maybe look at how you can get rid of whatever it is completely"
+
+Sam Thorogood
+
+<!--
+, maybe look at how you can get rid of whatever it is completely"
 -->
 
 
 ---
-
-# 🧪
+layout: image
+image: /thinking.svg
+---
 
 <!--
 Instead of thinking, how can I fix this flakey test, maybe look at what value that test is providing in the first place.
--->
 
----
-
-# ♾️
-
-<!--
 Removing that test, that process, that would now no longer provide value, is infinity more valuable than perpetually spending time fixing it.
--->
 
----
-
-# 🌐
-
-<!--
 But that's not possible if you don't truly understand the system.
--->
 
----
-
-# ⏸️
-
-<!--
 One way to think about the system is to bias for inaction.
--->
 
----
-
-# 🚫
-
-<!--
 Don't just build what you're told.
--->
 
----
-
-# ❓
-
-<!--
 Question the why, to help you understand the underlying problem.
+
+# TODO: Split for visuals?
 -->
 
 ---
@@ -2108,55 +2093,52 @@ Which is a shame because we're an industry that can utilise it so quickly and ef
 
 ---
 
-# 🚫
-
 <!--
 Because otherwise, the alternative looks like:
 -->
 
 ---
-
-# 📅
+layout: image
+image: /uploads_weeks.svg
+---
 
 <!--
 Weeks of:
--->
 
----
-
-# ⏰
-
-<!--
 Engineering time spent on implementing additional complexity, and testing that the spec was followed.
 -->
 
 ---
-
-# 🔧
+layout: image
+image: /uploads_maintain.svg
+---
 
 <!--
 Only to be followed by the inevitable burden of keeping it maintained,
 -->
 
 ---
-
-# 🐛
+layout: image
+image: /uploads_bugs.svg
+---
 
 <!--
 dealing with newly introduced bugs for users
 -->
 
 ---
-
-# 📦
+layout: image
+image: /uploads_dependencies.svg
+---
 
 <!--
 and the dependency hell that all other developers now need to deal with, because this feature required installing a special package that now fails all new builds.
 -->
 
 ---
-
-# 🏗️
+layout: image
+image: /question_mark.svg
+---
 
 <!-- 
 What if you do have to build something?
