@@ -1567,7 +1567,7 @@ maybe more developers doesn't address the core problem ...
 layout: statement
 ---
 
-# Nothing >>> Something
+# Nothing >> Something
 
 <!--
 Nothing, is infinitely better than something.
