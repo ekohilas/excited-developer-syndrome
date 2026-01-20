@@ -873,6 +873,8 @@ Why wouldn't you use a solution that already exists?
 -->
 
 ---
+layout: statement
+---
 
 # Not Invented Here
 
@@ -887,64 +889,64 @@ image: /nih_study.svg
 
 <!--
 And empirically you don't want this bias, because a study shows that it causes performance to decline.
--->
 
----
-
-# 🏗️ 
-
-<!--
 But I've seen too many companies decide to re-build solutions in house, for solutions that exist as paid, managed products.
 -->
 
 ---
-
-# 🚩
+layout: image
+image: /feature_flag.svg
+---
 
 <!--
-From simple feature flagging software,
+From simple feature flagging software, that change what users see.
 -->
 
 ---
-
-# 🤖
+layout: image
+image: /chatgpt_logo.svg
+---
 
 <!--
-To Chat-GPT.
+To complex products like Chat-GPT.
 -->
 
 ---
-
-# 🤷
 
 <!--
 So perhaps these companies don't agree, or their team's performance is not an issue.
 -->
 
 ---
-
-# 🔒
+layout: image
+image: /nih_security.svg
+---
 
 <!--
 Maybe they really care about keeping their data in house for security.
 -->
 
 ---
-
-# 🔗
+layout: image
+image: /nih_dependency.svg
+---
 
 <!--
 Or they don't want to have yet another dependency that could fail and be out of their control.
 -->
 
 ---
-
-# 🎨
+layout: image
+image: /nih_custom.svg
+---
 
 <!--
 Or maybe they want customizability that the off the shelf product can't offer.
 -->
 
+---
+layout: image
+image: /nih_promotion.svg
 ---
 
 # 🎖️
@@ -954,195 +956,163 @@ Or worst of all, Ash wanted something complex to build for a promotion.
 -->
 
 ---
-
-# 👀
+layout: image
+image: /nih_all.svg
+---
 
 <!--
 I'm not going to argue that these aren't valid reasons. They definitely have their place.
+-->
 
+---
+layout: image
+image: /nih_eyes.svg
+---
+
+<!--
 # TODO: Looking eyes fading in.
 
 (Okay maybe I'll argue against the last one)
 -->
 
 ---
-
-# ⚖️
+layout: image
+image: /nih_all.svg
+---
 
 <!--
 But they are all tradeoffs, and we have to consider.
--->
 
----
-
-# 💰
-
-<!--
 Are these benefits worth the cost? 
 -->
 
 ---
-
-# 🔒💬
+layout: image
+image: /nih_security_only.svg
+---
 
 <!--
 Is keeping data in house that important, when everyone is communicating through tools like Slack, or using external unknown tools like their personal LLM?
 -->
 
 ---
-
-# 🔗🏗️
+layout: image
+image: /nih_dependency_only.svg
+---
 
 <!--
 Are dependencies that concerning, if the internal infrastructure would be less stable?
 -->
 
 ---
-
-# ➕
+layout: image
+image: /nih_custom_only.svg
+---
 
 <!--
 Is that one extra feature worth the additional complexity?
 -->
 
 ---
-
-# 🏆
+layout: image
+image: /nih_promotion.svg
+---
 
 <!--
 Or is building out an entire new promotion worthy product worth the maintenance burden?
 -->
 
 ---
-
-# ✅
+layout: image
+image: /nih_all.svg
+---
 
 <!--
 And if the answer to some of these questions is yes, then that's perfectly fine!
 -->
 
 ---
-
-# 🤔
+layout: image
+image: /thinking.svg
+---
 
 <!--
 What's more important is that they've been thought of.
--->
 
----
-
-# ⏰💰
-
-<!--
 Because building takes time, and time is money.
 -->
 
 ---
+layout: fact
+---
 
-# 💵
+# ~ $1,000,000 / year
+cost for in house team
 
 <!--
-A team being dedicated to build, maintain, debug, and secure, a product like feature flags, can cost on the order of a million dollars a year.
+This would be the yearly cost for an in house team dedicated to build, maintain, debug, and secure, a product like feature flags.
 -->
 
 ---
-
-# 💸
-
-<!--
-Or, if you had 1 million users, it would cost around 1/8th of that to pay for a product.
--->
-
+layout: fact
 ---
 
-# 🛡️
+# ~ $120,000 / year
+paid product for 1 million users
 
 <!--
+Or, for around an eighth for that, you can buy an off the shelf product that supports one million users. 
+
 Which don't forget, is run by a team whose sole job is managing the reliability and security of this product.
 -->
 
 ---
-
-# 🧑‍💻
-
-<!--
-I can't really blame Ash for being a victim to Not Invented Here This bias exists because the nature of our industry encourages it.
--->
-
+layout: image
+image: /construction.webp
 ---
 
-# 🏗️⏳
-
 <!--
+I can't really blame Ash for being a victim to Not Invented Here.
+
+This bias exists because the nature of our industry encourages it.
+
 I mean, can you imagine working in an industry like construction, where timelines are on the order of years? 
--->
 
----
-
-# ⚡
-
-<!--
 In comparison, software engineering is blessed with the ability to iterate quickly, through building, testing, and validating ideas, and personally I can't give that up.
+
+# Source https://www.youtube.com/watch?v=btGWg-IPwlY
 -->
 
 ---
-
-# 🤖✨
+layout: image
+image: /generative_ai.svg
+---
 
 <!--
 And with the advent of generative AI, that produces code better by the day, we can't expect this bias to go away.
--->
 
----
-
-# 🚀
-
-<!--
 It's now easier than ever for someone to come up with an idea, and get to a working solution faster than they could find and integrate and existing one, because they've decided they can do a better job re-building it with the help of AI.
 
-# TODO: Shrug emoji.
--->
-
----
-
-# 🤷
-
-<!--
 And I can't really stop that.
+
+# Image Source: https://www.dataversity.net/articles/a-brief-history-of-generative-ai/
 -->
 
 ---
-
-# ⚠️
+layout: image
+image: /thought_bubble.svg
+---
 
 <!--
 But I have experienced where that can go wrong.
 
-# TODO: Add example
--->
-
----
-
-# 🔨
-
-<!--
 So if we do go down the route of re-building
--->
 
----
-
-# 🧠
-
-<!--
 These tools that help us build quicker make it easy to do so with less thinking.
--->
 
----
-
-# ⚠️
-
-<!--
 So we must remind ourselves that whatever is built is likely half complete, and can't just be called done.
+
+# TODO: Add example
 -->
 
 ---
