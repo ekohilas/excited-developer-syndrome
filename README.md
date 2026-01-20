@@ -6,7 +6,7 @@ A [repo](https://github.com/ekohilas/excited-developer-syndrome) for the slides 
 
 | Conference | Slides | Video | Notes | Length | Year |
 |------------|:------:|:-----:|:-----:|-------:|-----:|
-| [EverythingOpen](https://2026.everythingopen.au/) | [🔗](https://ekohilas.github.io/excited-developer-syndrome) | [🔗](https://www.youtube.com/@ekohilas) | [🔗](https://2026.everythingopen.au/schedule/presentation/27/) | 45 min | 2026 |
+| [EverythingOpen](https://2026.everythingopen.au/) | [🔗](https://ekohilas.github.io/excited-developer-syndrome/1) | [🔗](https://www.youtube.com/@ekohilas) | [🔗](https://2026.everythingopen.au/schedule/presentation/27/) | 45 min | 2026 |
 
 ### Abstract
 
