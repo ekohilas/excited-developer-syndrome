@@ -314,7 +314,7 @@ image: /blake.svg
 <!--
 This is Blake
 
-# TODO: say hi blake
+> TODO: say hi blake
 -->
 
 ---
@@ -456,7 +456,7 @@ layout: statement
 ## _Defnition:_ A developer, who is excited for building out quick solutions, before fully understanding the problem at hand, and thus often become unmaintainable out of not retaining responsibility. 
 
 <!--
-# TODO: Refine definition?
+> TODO: Refine definition?
 
 A developer, who is excited for building out quick solutions, before fully understanding the problem at hand, and thus often become unmaintainable out of not retaining responsibility. 
 -->
@@ -477,8 +477,8 @@ especially in one which generative AI makes building easier by the day,
 
 what can one do to prevent it, to stop it from affecting us?
 
-# TODO: Give sources? Why people should listen?
-# TODO: Add clarity when it's the right mindset to have
+> TODO: Give sources? Why people should listen?
+> TODO: Add clarity when it's the right mindset to have
 -->
 
 ---
@@ -565,8 +565,8 @@ h4 {
 Not to be confused with the law of large numbers
 
 [click] which simply put, says that if I take the average of all of your guesses for how many jelly beans are in this jar, it'd converge to be correct. 
-# TODO: Fix title
-# TODO: For the record, the answer is...
+> TODO: Fix title
+> TODO: For the record, the answer is...
 -->
 
 ---
@@ -974,7 +974,7 @@ image: /nih_eyes.svg
 ---
 
 <!--
-# TODO: Looking eyes fading in.
+> TODO: Looking eyes fading in.
 
 (Okay maybe I'll argue against the last one)
 -->
@@ -1116,7 +1116,7 @@ These tools that help us build quicker make it easy to do so with less thinking.
 
 So we must remind ourselves that whatever is built is likely half complete, and can't just be called done.
 
-# TODO: Add example
+> TODO: Add example
 -->
 
 ---
@@ -1168,7 +1168,7 @@ image: /new_framework_logo.svg
 <!--
 So then there was 9...
 
-# TODO: Add clarity for Ash building
+> TODO: Add clarity for Ash building
 -->
 
 ---
@@ -1256,8 +1256,8 @@ At the end of the day, there's nothing that can force Ash to make these choices.
 
 So if it does pain you to see another standard being created, I do encourage you to at least leave some feedback, or a trail, for others who search to find your path.
 [19:54]
-# TODO: Add clicks
-# TODO: Fix formatting
+> TODO: Add clicks
+> TODO: Fix formatting
 -->
 
 ---
@@ -1300,8 +1300,8 @@ But wait just a minute, should you actually build it?
 
 This is a question we often don't get to ask in our excitement.
 
-# TODO: Title
-# TODO: Can I incorporate a single example as the main thread?
+> TODO: Title
+> TODO: Can I incorporate a single example as the main thread?
 -->
 
 ---
@@ -1359,7 +1359,7 @@ Each year became more and more expensive, and by 1980, they had spent an unmanag
 
 Why was this considered unmanageable?
 
-# TODO: Highlight number?
+> TODO: Highlight number?
 -->
 
 ---
@@ -1562,7 +1562,7 @@ layout: statement
 <!--
 Nothing, is infinitely better than something.
 
-# TODO: Title
+> TODO: Title
 -->
 
 ---
@@ -1615,7 +1615,7 @@ image: /hf_send.svg
 <!--
 And after making this prediction and transmission, it could compare the signal quality against the prediction. 
 
-# TODO: Add image to visualise comparison?
+> TODO: Add image to visualise comparison?
 -->
 
 ---
@@ -1742,7 +1742,7 @@ image: /iq_meme.png
 <!--
 There's this meme that I love.
 
-# TODO: Insert meme
+> TODO: Insert meme
 -->
 
 ---
@@ -1835,7 +1835,7 @@ Don't just build what you're told.
 
 Question the why, to help you understand the underlying problem.
 
-# TODO: Split for visuals?
+> TODO: Split for visuals?
 -->
 
 ---
@@ -1858,7 +1858,7 @@ image: /dev.svg
 <!--
 And we'll bring Ash back, to put this into perspective.
 
-# TODO: Remove the asking?
+> TODO: Remove the asking?
 -->
 
 ---
@@ -2151,7 +2151,7 @@ image: /question_mark.svg
 <!-- 
 What if you do have to build something?
 
-# TODO: Title
+> TODO: Title
 -->
 
 ---
@@ -2213,7 +2213,7 @@ And it serves over 2.5 million users a month.
 
 But can you believe that when they started back in 2017, for their first few years, they had no backend,
 
-# TODO: Add image
+> TODO: Add image
 -->
 
 ---
@@ -2225,8 +2225,8 @@ salaries
 
 <!--
 and stored over 100 thousand salaries in a google sheet?
-# TODO: Add google sheet
-# TODO: Add image
+> TODO: Add google sheet
+> TODO: Add image
 -->
 
 ---
@@ -2274,7 +2274,7 @@ Because, how your data is stored makes no difference if no one wanted the produc
 
 And the quickest way for them to launch? 
 
-# TODO: own slide?
+> TODO: own slide?
 -->
 
 ---
@@ -2345,11 +2345,11 @@ image: /design_diagram_database.svg
 <!--
 Then migrating between components when the time calls, can be a short, well trodden path.
 
-# TODO: Diagrams with boxes that get swapped out
+> TODO: Diagrams with boxes that get swapped out
 
-# TODO: Add source https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html 
+> TODO: Add source https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html 
 
-# TODO: Mention SLC vs MVP? 
+> TODO: Mention SLC vs MVP? 
 -->
 
 ---
@@ -2371,7 +2371,7 @@ image: /fyi_build.svg
 <!--
 - Well first, they would have had to spend time, building, and maintaining a backend to process the data, and a database to store it.
 
-# TODO: Update with laptop
+> TODO: Update with laptop
 -->
 
 ---
@@ -2390,7 +2390,7 @@ image: /fyi_migration.svg
 
 <!--
 - There's also the cost of running migrations, every inevitable time there's a schema change.
-# TODO: Update with transformation
+> TODO: Update with transformation
 -->
 
 ---
