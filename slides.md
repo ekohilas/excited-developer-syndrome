@@ -1240,84 +1240,67 @@ image: /thinking.svg
 
 # Creating another standard?
 
-1. Think
-2. Contribute
-3. Fork
-4. Communicate 
+- Think
+- Contribute
+- Fork
+- Communicate 
 
 <!--
 At the end of the day, there's nothing that can force Ash to make these choices. They have to come from within.
 
 So if it does pain you to see another standard being created, I do encourage you to at least leave some feedback, or a trail, for others who search to find your path.
 
-# TODO: Fix
+# TODO: Fix formatting
 -->
 
 ---
 duration: 1min
+layout: image
+image: /search_earth.svg
 ---
-
-# 🔍
 
 <!--
 What if you've honestly searched everywhere. Across different search engines, hosted code platforms, and have asked AI _and_ your network. What if you've basically scoured the earth but still couldn't find anything?
 -->
 
 ---
-
-# 🚀
+layout: image
+image: /dove.svg
+---
 
 <!--
 Then don't let me stop you!
--->
 
----
-
-# 🏗️
-
-<!--
 Go forth and build!
 -->
 
 ---
-
-# 🧠
+layout: image
+image: /thinking.svg
+---
 
 <!--
 But I hope you'll do so with a new frame of mind, so that tomorrow, when Ash thinks about building the same thing, they'll quickly discover your work, and maybe, your work will be inspiring enough for them to contribute back and improve upon your work, rather than decide to start from scratch, and build something internally that will never see the light of day.
 -->
 
 ---
-
-# ❓
-
-<!--
-But wait, should you actually build it?
-
-# TODO: Title
--->
-
+layout: image
+image: /wait_hand.svg
 ---
 
-# 🌐
-
 <!--
-Think about the system
--->
+But wait just a minute, should you actually build it?
 
----
-
-# 🤔
-
-<!--
 This is a question we often don't get to ask in our excitement.
 
+# TODO: Title
 # TODO: Can I incorporate a single example as the main thread?
 -->
 
 ---
-
-# 👀
+layout: image
+image: /meditate.svg
+---
 
 <!--
 If we pause for a moment, breathe, look around us, and remove the blinders of excitement, then we could ask, what is the underlying system that we see at play?
