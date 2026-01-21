@@ -1238,19 +1238,28 @@ layout: image-right
 image: /thinking.svg
 ---
 
-# Creating another standard?
+<h1 v-click>
+Creating another standard?
+</h1>
+
+<v-clicks>
 
 - Think
 - Contribute
 - Fork
 - Communicate
+</v-clicks>
 
 <!--
 At the end of the day, there's nothing that can force Ash to make these choices. They have to come from within.
 
-So if it does pain you to see another standard being created, I do encourage you to at least leave some feedback, or a trail, for others who search to find your path.
+[click] So if it does pain you to see another standard being created, I do encourage you to
+- [click] think
+- [click] contribute
+- [click] fork
+- [click] or communicate and at least leave some feedback, or a trail, for others who search to find your path.
+
 [19:54]
-> TODO: Add clicks
 > TODO: Fix formatting
 -->
 
