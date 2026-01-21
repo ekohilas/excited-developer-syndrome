@@ -974,8 +974,6 @@ image: /nih_eyes.svg
 ---
 
 <!--
-> TODO: Looking eyes fading in.
-
 (Okay maybe I'll argue against the last one)
 -->
 
@@ -1115,8 +1113,6 @@ So if we do go down the route of re-building
 These tools that help us build quicker make it easy to do so with less thinking.
 
 So we must remind ourselves that whatever is built is likely half complete, and can't just be called done.
-
-> TODO: Add example
 -->
 
 ---
