@@ -1153,7 +1153,7 @@ image: /framework_logos.svg
 ---
 
 <!--
-And neither did the other 8 frameworks
+Apparently none of the 9 frameworks did.
 -->
 
 ---
@@ -1162,9 +1162,7 @@ image: /new_framework_logo.svg
 ---
 
 <!--
-So then there was 9...
-
-> TODO: Add clarity for Ash building
+So then Ash made the 10th!
 -->
 
 ---
