@@ -2543,7 +2543,13 @@ image: /outro.svg
 <!--
 If you're after the resources for this talk, you can find them in these links.
 
-Or if you're after me and any updates, you can subscribe to my mailing list on nohumanerrors.com, find me online at ekohilas, or here if you have any questions or feedback!
+And if any of this was of interest to you, reach out!
+
+I'm looking for my next engagement and would love to work with you on solving complex problems. 
+
+If you enjoyed this talk, please take a picture to share it online.
+
+You can also subscribe to my mailing list on nohumanerrors.com, find me online at ekohilas, or here if you have any questions or feedback!
 -->
 
 ---
