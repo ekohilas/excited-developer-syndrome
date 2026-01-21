@@ -1736,27 +1736,27 @@ The ability to apply critical thinking, before excitedly rushing to a what would
 
 ---
 layout: image
-image: /iq_meme.png
+image: /iq_meme_1.svg
 ---
 
 <!--
-There's this meme that I love.
+There's this meme that I love of a bell curve...
 
-> TODO: Insert meme
+> TODO: Replace meme with diff example 
 -->
 
 ---
 layout: image
-image: /iq_meme.png
+image: /iq_meme_2.svg
 ---
 
 <!--
-The dev on the left of the bell curve uses the built in sort function to sort a list.
+The dev on the left uses the built in sort function to sort a list.
 -->
 
 ---
 layout: image
-image: /iq_meme.png
+image: /iq_meme_3.svg
 ---
 
 <!--
@@ -1765,7 +1765,7 @@ The average dev implements their own sort function with some tests.
 
 ---
 layout: image
-image: /iq_meme.png
+image: /iq_meme_4.svg
 ---
 
 <!--
@@ -1774,7 +1774,7 @@ The dev on the right, uses the built in sort function and doesn't write tests be
 
 ---
 layout: image
-image: /iq_meme.png
+image: /iq_meme_5.svg
 ---
 
 <!--
@@ -1783,7 +1783,7 @@ And the dev on far right tail end, removes the sort function because the list wa
 
 ---
 layout: image
-image: /iq_meme.png
+image: /iq_meme_5.svg
 ---
 
 <!--
