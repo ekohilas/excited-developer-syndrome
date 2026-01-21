@@ -2370,8 +2370,6 @@ image: /fyi_build.svg
 
 <!--
 - Well first, they would have had to spend time, building, and maintaining a backend to process the data, and a database to store it.
-
-> TODO: Update with laptop
 -->
 
 ---
@@ -2390,7 +2388,6 @@ image: /fyi_migration.svg
 
 <!--
 - There's also the cost of running migrations, every inevitable time there's a schema change.
-> TODO: Update with transformation
 -->
 
 ---
