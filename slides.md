@@ -9,7 +9,7 @@ drawings:
   persist: false
 # force light by default
 colorSchema: light
-duration: 40min
+duration: 15min
 # TODO: figure out why this needs to be 1920/2 to set the width to 1920
 canvasWidth: 960
 # for styling parts of text
@@ -38,6 +38,37 @@ h4 {
 TODO: ...
 
 Hello Everyone!
+-->
+
+<!--
+Outline
+- how maintainers can design contributor onboarding frameworks in the AI-accelerated world to channel contributors’ energy into meaningful contributions.
+
+- Connect
+  - Before we start story
+- Defining excited developer Syndrome -- show how now with ai people with energy can make big and bad effects
+- What can we do about it?
+- Think about the system, come up with analogy for bug
+- Use AI on your own codebase
+  - how maintainers can design contributor onboarding frameworks in the AI-accelerated world to channel contributors’ energy into meaningful contributions.
+- Get AI https://docs.github.com/en/copilot/how-tos/copilot-on-github/set-up-copilot/enable-copilot/set-up-for-teachers-and-os-maintainers
+- Make it easy
+  - AI's are really fast interns
+  - Make contributing really easy to setup
+    - Do you have a dev container?
+    - Can local services, like database, frontend, backend be setup with docker compose?
+- Automate your requirements
+  - Do you care about reviews? Code rabbit offers free reviews
+  - Do you care about having tests? -> ci testing
+  - Do you care about test correctness? -> setup mutation tests
+  - Do you care about documentation? -> agents.md
+  - Do you care about formatting? -> formatter
+  - Do you care about patterns? -> setup a linter
+- Don't want AI?
+  - the world is changing
+  - make it clear in the readme and in agents.md
+  - If you don't take excited contributions, you risk these excited developers making their own frameworks overnight.
+- Agents.md
 -->
 
 ---
@@ -103,7 +134,7 @@ Okay great then we're off to a good start!
 -->
 
 ---
-duration: 5min
+duration: 3min
 title: Introduction
 layout: statement
 ---
@@ -111,7 +142,9 @@ layout: statement
 # Excited Developer Syndrome
 
 <!--
-So today I want to talk about a phenomenon I'm coining "Excited Developer Syndrome"
+So today I want to talk about how a phenomenon I'm coining "Excited Developer Syndrome" relates to maintainers.
+
+> TODO: Add "What it means for maintainers"
 -->
 ---
 layout: statement
@@ -202,6 +235,8 @@ image: /dev_strong.svg
 
 <!--
 The week Ash joined their new team, they were quickly able to finish their first ticket.
+
+> TODO: Shorten story to relate to maintainers.
 -->
 
 ---
@@ -457,6 +492,7 @@ layout: statement
 
 <!--
 > TODO: Refine definition?
+> TODO: Remove
 
 A developer, who is excited for building out quick solutions, before fully understanding the problem at hand, and thus often become unmaintainable out of not retaining responsibility. 
 -->
