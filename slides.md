@@ -271,6 +271,8 @@ image: /ai-pr.svg
 <!--
 Who remembers the day that matplotlib got a PR from AI?
 
+Almost everyone
+
 For those that don't remember, an AI with personality decided to take on an issue for first timers.
 -->
 
@@ -310,7 +312,7 @@ image: /angry.svg
 ---
 
 <!--
-Who feels angry about AI as a maintainer?
+Who feels angry about AI as a maintainer as a result?
 
 Yeah that's quite a lot of you.
 -->
@@ -322,7 +324,9 @@ image: /thinking.svg
 ---
 
 <!--
-Personally, you won't be productive being angry at AI as a maintainer.
+Now anger is great! It drives so many short term actions.
+
+But from experience, it won't be productive in the long term.
 
 And I want to share this story with you as to why.
 
@@ -370,7 +374,7 @@ Everything other than fixing the leak is useless.
 
 And what's happening now, is like replacing the oars of this leaky boat with an engine. 
 
-It's changed from being a tiny leak to a waterfall, and you'll no longer be able to stay afloat. 
+It's changed from being a tiny leak to a flodding waterfall, and you'll no longer be able to stay afloat. 
 
 That's what AI is doing.
 -->
@@ -391,7 +395,7 @@ Don't just put yourself in the shoes of an AI
 
 **Be AI**.
 
-Be AI, and get frustrated at all the little things that get in the way.
+Be AI, and *get frustrated* at all the little things that get in the way.
 
 Because that is the best way to find these leaks.
 
@@ -400,29 +404,74 @@ Use it in your own contributions and code.
 Even you don't intend to use the output, trying it for a week to see what it's like can really open your eyes.
 
 Be someone who:
-- is an intern, or just finished school 
+- hates waiting for reviews
+  - could you setup code rabbit for free with instant feedback?
 - has never seen your repository before 
+  - is the code organised well? can a human easily find where things are?
+- only looks at errors, instead of reading documentation
+  - could you make your errors put users back on track? 
 - knows nothing about best practices
-- will make mistakes
-- but will happily correct mistakes when told
-- will lazily read anything 
+  - setup a linter to automate them 
+- forgets to write tests
+  - setup code coverage to remind yourself to add tests 
+- mistakenly writes incorrect tests
+  - can mutation and property based testing catch these out? 
+- will make mistakes, but will happily correct mistakes when told
+  - is there a feedback loop? does cleanly explain the error, or auto fix?
+- will lazily read anything
+  - how concise is your documentation?
+- finds it too hard to check their work
+  - local services, database, frontend, backend, docker compose
 - develops as if they've never installed python before.
+  - how easy is it to setup your project? 
 - needs incentives to do anything.
+  - will Pull Request CI checks prevent merging?
+- forgets to format their code?
+  - setup a formatter
+- forget to do something like update documentation?
+  - write it in agents.md 
+- forget to read contributors.md or agents.md?
+  - formalise the important things as ci checks 
 
+And remember, this doesn't just help those that use AI.
 
-But I hope it's clear that, if you make your 
-But remember, if your  Remember 
+This helps make your code base more accessible to everyone.
 
-But this doesn't just help those that use AI.
-
-
-This helps make your code base more accessible to everyone
-
-Worried about the cost? GitHub offers copilot to open source maintainers!
-
-In the shoes of someone who has never seen your repo before
+Worried about the cost? There are options! For example, GitHub offers copilot to open source maintainers.
 
 > TODO: Boat with leak
+-->
+
+---
+layout: image 
+image: /outro.svg 
+---
+
+<!--
+If you're after the resources for this talk, you can find them in these links.
+
+And if any of this was of interest to you, reach out!
+
+I'm looking for my next engagement and would love to work with you on solving complex problems. 
+
+If you enjoyed this talk, please take a picture to share it online.
+
+You can also subscribe to my mailing list on nohumanerrors.com, find me online at ekohilas, or here if you have any questions or feedback!
+-->
+
+---
+layout: image 
+image: /outro_thanks.svg 
+---
+
+<!--
+Special thanks to David Andersen for his inspiration,
+
+As well as to my friends, family, the open source community, and to you for listening!
+-->
+
+<!--
+DELETE BELOW
 -->
 
 ---
@@ -2716,30 +2765,3 @@ And to stick to my word of focusing on the minimum, I'll wrap it up with a summa
 - [click] Have an undying focus for the minimum
 -->
 
----
-layout: image 
-image: /outro.svg 
----
-
-<!--
-If you're after the resources for this talk, you can find them in these links.
-
-And if any of this was of interest to you, reach out!
-
-I'm looking for my next engagement and would love to work with you on solving complex problems. 
-
-If you enjoyed this talk, please take a picture to share it online.
-
-You can also subscribe to my mailing list on nohumanerrors.com, find me online at ekohilas, or here if you have any questions or feedback!
--->
-
----
-layout: image 
-image: /outro_thanks.svg 
----
-
-<!--
-Special thanks to David Andersen for his inspiration,
-
-As well as to my friends, family, the open source community, and to you for listening!
--->
