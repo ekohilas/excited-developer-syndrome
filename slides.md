@@ -314,6 +314,29 @@ So what could we as maintainers do about these excited developers (who may or ma
 -->
 
 ---
+title: Why AI?
+layout: image
+image: /thinking.svg
+---
+
+<!--
+
+But why should you care about AI as a maintainer?
+
+Well, back in the 1970's Californian riders were modifying their bicycles for the mountain riding their soul was searching for.
+
+The Schwinn Bicycle Company, instead of understanding this shift in the market, ignored it as a fad.
+
+This community went on to start brands like Mongoose.
+
+And if you haven't heard of Schwinn, that's because they're now bankrupt.
+
+I don't say this because I think AI is the only future.
+
+I say this because, a different perspective allows you to improve your current processes, that otherwise, may cause a competitor to take your place.
+
+---
+title: System Thinking
 layout: image
 image: /thinking.svg
 ---
@@ -326,14 +349,7 @@ Personally, I've learned that blaming others doesn't get you anywhere.
 And instead it's most productive to look at the system as a whole.
 
 > TODO: Add blame picture
--->
 
----
-layout: image
-image: /thinking.svg
----
-
-<!--
 It's like bailing water from a leaking boat.
 
 Everything other than fixing the leak is useless.
@@ -343,7 +359,14 @@ And what's happening now, is like replacing the oars of this leaky boat with an 
 It's changed from being a tiny leak to a waterfall, and you'll no longer be able to stay afloat. 
 
 That's what AI is doing.
+-->
 
+---
+layout: image
+image: /thinking.svg
+---
+
+<!--
 So in an age where AI usage grows by the day, how can we both find and fix these leaks?
 
 How can we guide excited developers into doing good, rather than harming our projects and maintainers?
@@ -372,23 +395,6 @@ Be someone who:
 - develops as if they've never installed python before.
 - needs incentives to do anything.
 
-What if you don't care for AI?
-
-That's fine! You can make that clear in your `AGENTS.md, and they'll probably go away.
-
-Something worth noting
-
-It's worth noting, being hostile to AI is like removing subtitles from your movies.  
-
-Because it's not just deaf people that need subtitles.
-
-Raise of hands for anyone who found them priceless when on a noisy environment like a train, or a quiet environment like your bed? 
-
-Risk of making their own frameworks overnight
-
-Making it impossible for a small amount of 
-You might make it impossible for a small amount of peop 
-Being hostile 
 
 But I hope it's clear that, if you make your 
 But remember, if your  Remember 
