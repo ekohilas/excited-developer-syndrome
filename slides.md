@@ -142,10 +142,20 @@ layout: statement
 # Excited Developer Syndrome
 
 <!--
-So today I want to talk about how a phenomenon I'm coining "Excited Developer Syndrome" relates to maintainers.
-
-> TODO: Add "What it means for maintainers"
+So today I want to talk about a phenomenon I'm coining "Excited Developer Syndrome",
 -->
+
+---
+layout: statement
+---
+
+# Excited Developer Syndrome
+## and what is means for maintainers
+
+<!--
+And in particular, what it means for maintainers.
+-->
+
 ---
 layout: statement
 ---
@@ -234,44 +244,7 @@ image: /dev_strong.svg
 ---
 
 <!--
-The week Ash joined their new team, they were quickly able to finish their first ticket.
-
-> TODO: Shorten story to relate to maintainers.
--->
-
----
-layout: image
-image: /dev_think.svg
----
-
-<!--
-But Ash wasn't just a good learner.
-
-They also had sparks of curiosity.
-
-By the end of their first month, they had questioned, and were able to identify multiple problems the company was facing.
--->
-
----
-layout: image
-image: /dev_angry.svg
----
-
-<!--
-But Ash wasn't a complainer
-
-They knew that solutions spoke louder than problems.
--->
-
----
-layout: image
-image: /dev_fast.svg
----
-
-<!--
-And Ash was *good* at building out solutions
-
-and doing so quickly.
+In fact, for any repository you throw in Ash's way, they'll quickly be able to make some changes with a Pull Request.
 -->
 
 ---
@@ -287,6 +260,149 @@ Okay about X of you.
 What about someone who knows of someone like Ash?
 
 Okay about Y of you.
+-->
+
+---
+title: AI matplotlib Blog 
+layout: image
+image: /ai-pr.svg
+---
+
+<!--
+Who remembers the day that matplotlib got a PR from AI?
+
+For those that don't remember, an AI with personality decided to take on an issue for first timers.
+-->
+
+---
+layout: image
+image: /matplotlib-response.svg
+---
+
+<!--
+And Scott rejected this contribution, being reserved for human contributions.
+-->
+
+---
+title: AI matplotlib Blog 
+layout: image
+image: /ai-blog.svg
+---
+
+<!--
+But because the AI had a personality, it decided to publish a blog as a personal attack!
+-->
+
+---
+layout: image
+image: /hand.svg
+---
+
+<!--
+Now who would also call this AI an excited developer?
+
+Okay about X of you.
+-->
+
+---
+layout: image
+image: /thinking.svg
+---
+
+<!--
+So what could we as maintainers do about these excited developers (who may or may not be AI)
+-->
+
+---
+layout: image
+image: /thinking.svg
+---
+
+<!--
+Well, it's very easy to say things like "NO AI".
+
+Personally, I've learned that blaming others doesn't get you anywhere.
+
+And instead it's most productive to look at the system as a whole.
+
+> TODO: Add blame picture
+-->
+
+---
+layout: image
+image: /thinking.svg
+---
+
+<!--
+It's like bailing water from a leaking boat.
+
+Everything other than fixing the leak is useless.
+
+And what's happening now, is like replacing the oars of this leaky boat with an engine. 
+
+It's changed from being a tiny leak to a waterfall, and you'll no longer be able to stay afloat. 
+
+That's what AI is doing.
+
+So in an age where AI usage grows by the day, how can we both find and fix these leaks?
+
+How can we guide excited developers into doing good, rather than harming our projects and maintainers?
+
+If there's anything to take away from this, it's this.
+
+Don't just put yourself in the shoes of an AI
+
+**Be AI**.
+
+And get frustrated at all the little things.
+
+Because that is the best way to find these leaks.
+
+Use it in your own contributions and code.
+
+Even you don't intend to use the output, trying it for a week to see what it's like can really open your eyes.
+
+Be someone who:
+- is an intern, or just finished school 
+- has never seen your repository before 
+- knows nothing about best practices
+- will make mistakes
+- but will happily correct mistakes when told
+- will lazily read anything 
+- develops as if they've never installed python before.
+- needs incentives to do anything.
+
+What if you don't care for AI?
+
+That's fine! You can make that clear in your `AGENTS.md, and they'll probably go away.
+
+Something worth noting
+
+It's worth noting, being hostile to AI is like removing subtitles from your movies.  
+
+Because it's not just deaf people that need subtitles.
+
+Raise of hands for anyone who found them priceless when on a noisy environment like a train, or a quiet environment like your bed? 
+
+Risk of making their own frameworks overnight
+
+Making it impossible for a small amount of 
+You might make it impossible for a small amount of peop 
+Being hostile 
+
+But I hope it's clear that, if you make your 
+But remember, if your  Remember 
+
+But this doesn't just help those that use AI.
+
+
+This helps make your code base more accessible to everyone
+
+Worried about the cost? GitHub offers copilot to open source maintainers!
+
+In the shoes of someone who has never seen your repo before
+
+> TODO: Boat with leak
 -->
 
 ---
