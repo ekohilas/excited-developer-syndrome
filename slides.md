@@ -306,11 +306,13 @@ Okay about X of you.
 
 ---
 layout: image
-image: /thinking.svg
+image: /angry.svg
 ---
 
 <!--
-So what could we as maintainers do about these excited developers (who may or may not be AI)
+Who feels angry about AI as a maintainer?
+
+Yeah that's quite a lot of you.
 -->
 
 ---
@@ -320,20 +322,32 @@ image: /thinking.svg
 ---
 
 <!--
+Personally, you won't be productive being angry at AI as a maintainer.
 
-But why should you care about AI as a maintainer?
+And I want to share this story with you as to why.
 
-Well, back in the 1970's Californian riders were modifying their bicycles for the mountain riding their soul was searching for.
+So, back in the 1970's Californian riders were modifying their bicycles. 
+
+"Klunkers" they were called, and their excited soul sought the downhill mountain.
 
 The Schwinn Bicycle Company, instead of understanding this shift in the market, ignored it as a fad.
 
-This community went on to start brands like Mongoose.
+Meanwhile, this "Klunker" community went on to start brands like Mongoose.
 
-And if you haven't heard of Schwinn, that's because they're now bankrupt.
+And if you haven't heard of Schwinn, well, that's because they're now bankrupt...
 
 I don't say this because I think AI is the only future.
 
 I say this because, a different perspective allows you to improve your current processes, that otherwise, may cause a competitor to take your place.
+
+---
+layout: image
+image: /thinking.svg
+---
+
+<!--
+So what could we as maintainers do about these excited developers (who may or may not be AI)
+-->
 
 ---
 title: System Thinking
@@ -342,7 +356,7 @@ image: /thinking.svg
 ---
 
 <!--
-Well, it's very easy to say things like "NO AI".
+Well, when we go back to the matplotlib story, it's very easy to say things like "NO AI" would fix it.
 
 Personally, I've learned that blaming others doesn't get you anywhere.
 
@@ -377,7 +391,7 @@ Don't just put yourself in the shoes of an AI
 
 **Be AI**.
 
-And get frustrated at all the little things.
+Be AI, and get frustrated at all the little things that get in the way.
 
 Because that is the best way to find these leaks.
 
