@@ -265,7 +265,7 @@ Okay about Y of you.
 ---
 title: AI matplotlib Blog 
 layout: image
-image: /ai-pr.svg
+image: /ai_pr.svg
 ---
 
 <!--
@@ -278,7 +278,7 @@ For those that don't remember, an AI with personality decided to take on an issu
 
 ---
 layout: image
-image: /matplotlib-response.svg
+image: /matplotlib_response.svg
 ---
 
 <!--
@@ -288,7 +288,7 @@ And Scott rejected this contribution, being reserved for human contributions.
 ---
 title: AI matplotlib Blog 
 layout: image
-image: /ai-blog.svg
+image: /ai_blog.svg
 ---
 
 <!--
@@ -308,7 +308,7 @@ Okay about X of you.
 
 ---
 layout: image
-image: /angry.svg
+image: /dev_angry.svg
 ---
 
 <!--
@@ -329,6 +329,15 @@ Now anger is great! It drives so many short term actions.
 But from experience, it won't be productive in the long term.
 
 And I want to share this story with you as to why.
+-->
+
+---
+title: Bicycle Story
+layout: image
+image: /bike.svg
+---
+
+<!--
 
 So, back in the 1970's Californian riders were modifying their bicycles. 
 
@@ -339,14 +348,23 @@ The Schwinn Bicycle Company, instead of understanding this shift in the market, 
 Meanwhile, this "Klunker" community went on to start brands like Mongoose.
 
 And if you haven't heard of Schwinn, well, that's because they're now bankrupt...
+-->
+
+---
+layout: image
+image: /monacle.svg
+---
+
+<!--
 
 I don't say this because I think AI is the only future.
 
 I say this because, a different perspective allows you to improve your current processes, that otherwise, may cause a competitor to take your place.
+-->
 
 ---
 layout: image
-image: /thinking.svg
+image: /dev_excited.svg
 ---
 
 <!--
@@ -356,7 +374,7 @@ So what could we as maintainers do about these excited developers (who may or ma
 ---
 title: System Thinking
 layout: image
-image: /thinking.svg
+image: /blame.svg
 ---
 
 <!--
@@ -365,16 +383,40 @@ Well, when we go back to the matplotlib story, it's very easy to say things like
 Personally, I've learned that blaming others doesn't get you anywhere.
 
 And instead it's most productive to look at the system as a whole.
+-->
 
-> TODO: Add blame picture
+---
+layout: image
+image: /boat_leaking.svg
+---
 
+<!--
 It's like bailing water from a leaking boat.
 
 Everything other than fixing the leak is useless.
 
-And what's happening now, is like replacing the oars of this leaky boat with an engine. 
+And what's happening now, is like
+-->
 
-It's changed from being a tiny leak to a flodding waterfall, and you'll no longer be able to stay afloat. 
+---
+layout: image
+image: /boat_leaking_engine.svg
+---
+
+<!--
+replacing the oars of this leaky boat with an engine. 
+
+It's changed from being a tiny leak to a 
+
+-->
+
+---
+layout: image
+image: /boat_flooding_engine.svg
+---
+
+<!--
+flooding waterfall, and you'll no longer be able to stay afloat. 
 
 That's what AI is doing.
 -->
@@ -388,12 +430,24 @@ image: /thinking.svg
 So in an age where AI usage grows by the day, how can we both find and fix these leaks?
 
 How can we guide excited developers into doing good, rather than harming our projects and maintainers?
+-->
 
+---
+
+<!--
 If there's anything to take away from this, it's this.
 
 Don't just put yourself in the shoes of an AI
+-->
 
-**Be AI**.
+---
+layout: fact 
+---
+
+# BE AI
+
+<!--
+**Be AI** (pause)
 
 Be AI, and *get frustrated* at all the little things that get in the way.
 
@@ -402,44 +456,87 @@ Because that is the best way to find these leaks.
 Use it in your own contributions and code.
 
 Even you don't intend to use the output, trying it for a week to see what it's like can really open your eyes.
+-->
 
-Be someone who:
-- hates waiting for reviews
-  - could you setup code rabbit for free with instant feedback?
-- has never seen your repository before 
-  - is the code organised well? can a human easily find where things are?
-- only looks at errors, instead of reading documentation
-  - could you make your errors put users back on track? 
-- knows nothing about best practices
-  - setup a linter to automate them 
-- forgets to write tests
-  - setup code coverage to remind yourself to add tests 
-- mistakenly writes incorrect tests
-  - can mutation and property based testing catch these out? 
-- will make mistakes, but will happily correct mistakes when told
-  - is there a feedback loop? does cleanly explain the error, or auto fix?
-- will lazily read anything
-  - how concise is your documentation?
-- finds it too hard to check their work
-  - local services, database, frontend, backend, docker compose
-- develops as if they've never installed python before.
-  - how easy is it to setup your project? 
-- needs incentives to do anything.
-  - will Pull Request CI checks prevent merging?
-- forgets to format their code?
-  - setup a formatter
-- forget to do something like update documentation?
-  - write it in agents.md 
-- forget to read contributors.md or agents.md?
-  - formalise the important things as ci checks 
+---
+layout: image
+---
 
-And remember, this doesn't just help those that use AI.
+<!--
+For example, try being someone who:
+-->
 
-This helps make your code base more accessible to everyone.
+---
+layout: image
+image: /IMAGE.svg
+---
 
-Worried about the cost? There are options! For example, GitHub offers copilot to open source maintainers.
+<!--
+- forgets to do things without incentives
+  - and needs ci checks setup to prevent merging
+  - image: github_actions
+- and similarly forgets to format their code
+  - and needs ruff setup to run on every PR
+  - image: ruff
+- or forgets to write tests
+  - and needs code coverage setup as a requirement 
+  - image: code_coverage
+- speaking of tests, be someone who accidentally writes incorrect tests
+  - and needs mutation and property based testing setup catch these out. 
+  - image: hypothesis
+- be someone who knows nothing about best practices
+  - and needs a linter to tell them what to do 
+  - image: lint 
+- or when you make mistakes, will happily correct them when told
+  - and needs errors setup to be propagated appropriately, or auto fixed, so you know what needs fixing.
+  - image: circular_arrows
+- but also, hates waiting for reviews
+  - and needs code rabbit setup to give instant feedback (it's free)
+  - image: coderabbit
+- be someone who struggles to check their work
+  - and needs easily creatable local environments, such as with a database, a frontend, and a backend for testing
+  - image: docker_compose
+- or develops as if they've never installed python before.
+  - and needs dev containers to make setup effortless.
+  - image: dev_containers 
+- be someone who forgets to do something like update documentation
+  - and needs agents.md to remind them what to do.
+  - image: agents_md
+- will misread everything 
+  - and needs concise, easy to read, up to date documentation
+  - image: book
+- or has never seen your repository before 
+  - and needs easily readable and discoverable code. 
+  - image: folders 
+-->
 
-> TODO: Boat with leak
+---
+layout: image 
+image: /be_ai_all.svg 
+---
+
+<!--
+Every single one of these, is something that AI struggles with...
+-->
+
+---
+layout: image 
+image: /accessible.svg 
+---
+
+<!--
+But they're also things that humans struggle with too.
+
+So doing this isn't just for AI. It also makes your project more accessible!
+-->
+
+---
+layout: image 
+image: /copilot_free.svg 
+---
+
+<!--
+And if you're worried about the cost? There are options! For example, GitHub offers copilot to open source maintainers.
 -->
 
 ---
