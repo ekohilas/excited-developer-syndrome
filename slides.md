@@ -35,12 +35,11 @@ h4 {
 </style>
 
 <!--
-TODO: ...
+> TODO: ...
 
 Hello Everyone!
--->
 
-<!--
+> DELETE BELOW 
 Outline
 - how maintainers can design contributor onboarding frameworks in the AI-accelerated world to channel contributors’ energy into meaningful contributions.
 
@@ -441,7 +440,7 @@ Don't just put yourself in the shoes of an AI
 -->
 
 ---
-layout: fact 
+layout: fact
 ---
 
 # BE AI
@@ -455,7 +454,7 @@ Because that is the best way to find these leaks.
 
 Use it in your own contributions and code.
 
-Even you don't intend to use the output, trying it for a week to see what it's like can really open your eyes.
+Even if you don't intend to use the output, trying it for a week to see what it's like can really open your eyes.
 
 For example, try being someone who:
 -->
@@ -534,7 +533,7 @@ image: /code_rabbit.svg
 <!--
 but also, hates waiting for reviews
 
-and needs something like code rabbit setup to give instant feedback (it's free)
+and needs something like code rabbit setup to give instant feedback (which is free for open source!)
 -->
 
 ---
@@ -545,7 +544,7 @@ image: /docker_compose.svg
 <!--
 be someone who struggles to check their work
 
-and needs an easily creatable local environments, such as with a database, a frontend, and a backend for testing
+and needs easily create-able local environments, such as with a database, a frontend, and a backend for testing
 -->
 
 ---
@@ -567,7 +566,7 @@ image: /agents_md.svg
 <!--
 be someone who forgets to do something like update documentation
 
-and needs agents.md to remind them what to do,
+and needs agents.md or contributors.md to remind them what to do,
 -->
 
 ---
@@ -576,7 +575,7 @@ image: /book.svg
 ---
 
 <!--
-will misread everything
+or someone who will misread everything
 
 and needs concise, easy to read, up to date documentation
 -->
@@ -613,20 +612,22 @@ So doing this isn't just for AI. It also makes your project more accessible!
 -->
 
 ---
-layout: image 
-image: /copilot_free.svg 
+layout: image
+image: /copilot_free.svg
 ---
 
 <!--
-And if you're worried about the cost? There are options! For example, GitHub offers copilot to open source maintainers.
+And if you're worried about the cost? There are options! For example, GitHub along with others, offer AI credits to open source maintainers.
 -->
 
 ---
-layout: image 
-image: /outro.svg 
+layout: image
+image: /outro.svg
 ---
 
 <!--
+That's it from me,
+
 If you're after the resources for this talk, you can find them in these links.
 
 And if any of this was of interest to you, reach out!
@@ -2943,4 +2944,3 @@ And to stick to my word of focusing on the minimum, I'll wrap it up with a summa
 - [click] Pursue for a deep understanding of the system
 - [click] Have an undying focus for the minimum
 -->
-
