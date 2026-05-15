@@ -487,20 +487,20 @@ image: /IMAGE.svg
 - be someone who knows nothing about best practices
   - and needs a linter to tell them what to do 
   - image: lint 
-- or when you make mistakes, will happily correct them when told
+- or someone will make mistakes, but will happily correct them when told
   - and needs errors setup to be propagated appropriately, or auto fixed, so you know what needs fixing.
   - image: circular_arrows
 - but also, hates waiting for reviews
-  - and needs code rabbit setup to give instant feedback (it's free)
-  - image: coderabbit
+  - and needs something like code rabbit setup to give instant feedback (it's free)
+  - image: code_rabbit
 - be someone who struggles to check their work
-  - and needs easily creatable local environments, such as with a database, a frontend, and a backend for testing
+  - and needs an easily creatable local environments, such as with a database, a frontend, and a backend for testing
   - image: docker_compose
 - or develops as if they've never installed python before.
   - and needs dev containers to make setup effortless.
   - image: dev_containers 
 - be someone who forgets to do something like update documentation
-  - and needs agents.md to remind them what to do.
+  - and needs agents.md to remind them what to do,
   - image: agents_md
 - will misread everything 
   - and needs concise, easy to read, up to date documentation
