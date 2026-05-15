@@ -456,58 +456,140 @@ Because that is the best way to find these leaks.
 Use it in your own contributions and code.
 
 Even you don't intend to use the output, trying it for a week to see what it's like can really open your eyes.
--->
 
----
-layout: image
----
-
-<!--
 For example, try being someone who:
 -->
 
 ---
 layout: image
-image: /IMAGE.svg
+image: /github_actions.svg
 ---
 
 <!--
-- forgets to do things without incentives
-  - and needs ci checks setup to prevent merging
-  - image: github_actions
-- and similarly forgets to format their code
-  - and needs ruff setup to run on every PR
-  - image: ruff
-- or forgets to write tests
-  - and needs code coverage setup as a requirement 
-  - image: code_coverage
-- speaking of tests, be someone who accidentally writes incorrect tests
-  - and needs mutation and property based testing setup catch these out. 
-  - image: hypothesis
-- be someone who knows nothing about best practices
-  - and needs a linter to tell them what to do 
-  - image: lint 
-- or someone will make mistakes, but will happily correct them when told
-  - and needs errors setup to be propagated appropriately, or auto fixed, so you know what needs fixing.
-  - image: circular_arrows
-- but also, hates waiting for reviews
-  - and needs something like code rabbit setup to give instant feedback (it's free)
-  - image: code_rabbit
-- be someone who struggles to check their work
-  - and needs an easily creatable local environments, such as with a database, a frontend, and a backend for testing
-  - image: docker_compose
-- or develops as if they've never installed python before.
-  - and needs dev containers to make setup effortless.
-  - image: dev_containers 
-- be someone who forgets to do something like update documentation
-  - and needs agents.md to remind them what to do,
-  - image: agents_md
-- will misread everything 
-  - and needs concise, easy to read, up to date documentation
-  - image: book
-- or has never seen your repository before 
-  - and needs easily readable and discoverable code. 
-  - image: folders 
+forgets to do things without incentives
+
+and needs ci checks setup to prevent merging
+-->
+
+---
+layout: image
+image: /ruff.svg
+---
+
+<!--
+and similarly forgets to format their code
+
+and needs ruff setup to run on every PR
+-->
+
+---
+layout: image
+image: /code_coverage.svg
+---
+
+<!--
+or forgets to write tests
+
+and needs code coverage setup as a requirement
+-->
+
+---
+layout: image
+image: /hypothesis.svg
+---
+
+<!--
+speaking of tests, be someone who accidentally writes incorrect tests
+
+and needs mutation and property based testing setup catch these out.
+-->
+
+---
+layout: image
+image: /lint.svg
+---
+
+<!--
+be someone who knows nothing about best practices
+
+and needs a linter to tell them what to do
+-->
+
+---
+layout: image
+image: /circular_arrows.svg
+---
+
+<!--
+or someone will make mistakes, but will happily correct them when told
+
+and needs errors setup to be propagated appropriately, or auto fixed, so you know what needs fixing.
+-->
+
+---
+layout: image
+image: /code_rabbit.svg
+---
+
+<!--
+but also, hates waiting for reviews
+
+and needs something like code rabbit setup to give instant feedback (it's free)
+-->
+
+---
+layout: image
+image: /docker_compose.svg
+---
+
+<!--
+be someone who struggles to check their work
+
+and needs an easily creatable local environments, such as with a database, a frontend, and a backend for testing
+-->
+
+---
+layout: image
+image: /dev_containers.svg
+---
+
+<!--
+or develops as if they've never installed python before.
+
+and needs dev containers to make setup effortless.
+-->
+
+---
+layout: image
+image: /agents_md.svg
+---
+
+<!--
+be someone who forgets to do something like update documentation
+
+and needs agents.md to remind them what to do,
+-->
+
+---
+layout: image
+image: /book.svg
+---
+
+<!--
+will misread everything
+
+and needs concise, easy to read, up to date documentation
+-->
+
+---
+layout: image
+image: /folders.svg
+---
+
+<!--
+or has never seen your repository before
+
+and needs easily readable and discoverable code.
 -->
 
 ---
