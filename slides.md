@@ -41,6 +41,21 @@ Hello Everyone!
 -->
 
 ---
+layout: image
+image: /evan.svg
+---
+
+<!--
+Before we start, I want to say thank you for inviting me to speak from Australia.
+
+And I do have to say, when I first visited the US I knew there was something wrong with the country, because they didn't stock the worlds best cookie, the double choc subway cookie.
+
+For someone who loves cookies, this was just unacceptable.
+
+Thank you for letting me get that off my chest,
+-->
+
+---
 layout: statement
 ---
 
@@ -63,7 +78,7 @@ h4 {
 </style>
 
 <!--
-Are you...
+now, are you...
 -->
 
 ---
@@ -136,7 +151,9 @@ layout: statement
 ## _Definition:_ ...
 
 <!--
-And instead of giving you a boring definition
+So what is the excited developer syndrome?
+
+Well, instead of giving you a boring definition...
 -->
 
 ---
@@ -337,7 +354,9 @@ image: /dev_excited.svg
 ---
 
 <!--
-So what could we as maintainers do about these excited developers (who may or may not be AI)
+So what could we as maintainers learn about this?
+
+What could we do about these excited developers (who may or may not be AI)
 -->
 
 ---
@@ -375,8 +394,7 @@ image: /boat_leaking_engine.svg
 <!--
 replacing the oars of this leaky boat with an engine. 
 
-It's changed from being a tiny leak to a 
-
+The newfound speed has changed it from being a tiny leak to a
 -->
 
 ---
@@ -470,7 +488,7 @@ image: /hypothesis.svg
 <!--
 speaking of tests, be someone who accidentally writes incorrect tests
 
-and needs mutation and property based testing setup catch these out.
+and needs mutation and property based testing setup, to catch these out.
 -->
 
 ---
@@ -492,7 +510,7 @@ image: /circular_arrows.svg
 <!--
 or someone will make mistakes, but will happily correct them when told
 
-and needs errors setup to be propagated appropriately, or auto fixed, so you know what needs fixing.
+and needs errors setup to be propagated appropriately, or auto fixed, so you know exactly what needs fixing.
 -->
 
 ---
